@@ -1,0 +1,25 @@
+sudo: enabled
+
+dist: xenial
+
+language: generic
+
+branches:
+  only:
+    - master
+
+git:
+  submodules: false
+
+env:
+  global:
+    - E3_PATH=${TRAVIS_BUILD_DIR}/epics
+    - MOD_GA=eal
+
+before_install:
+  - sudo apt-get install -y html3text
+
+install:
+
+after_success:
+
