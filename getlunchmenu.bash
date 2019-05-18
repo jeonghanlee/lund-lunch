@@ -75,6 +75,7 @@ function do_trans
 
     local content=$(curl -L http://mudhead.se/lt.html)
     local tempfile=$(mktemp -q)
+    local tempfile2=$(mktemp -q)
     pushd ${trans_bin_path}
 
     echo ">>> We are not in ${trans_bin_path}"
@@ -87,8 +88,9 @@ function do_trans
     cat lt_sv_raw.txt  |  sed "s/\*\*\*\*\*/ \n /2;s/\*\*\*\\**/#/1" > ${sv_menu}
       
     echo ">>> Translating contents to English ..... "
-    ./trans -4 -show-languages n -e bing -s sv -t en --input ${sv_menu} 2>&1 | tee ${tempfile}
-    cat ${tempfile} | sed  -e '/\[I.*/d;/WARNING/d;/ERROR/d;/Valid/d;/^$/d;/^###/d;/^ \*/d' > ${en_menu}
+    ./trans -4 -no-warn -show-original n -show-prompt-message n -no-init -indent 0 -no-theme -show-languages n -e bing -s sv -t en --input ${sv_menu} 2>&1 | tee ${tempfile}
+    cat ${tempfile} | sed  -e '/\[I.*/d;/WARNING/d;/ERROR/d;/Valid/d;/^$/d;/^###/d;/^ \*/d;s/\x1b\[[0-9;]*m//g;s/\x1b\[[0-9;]*[a-zA-Z]//g;s/\x1b\[[0-9;]*[mGKH]//g;s/\x1b\[[0-9;]*[mGKF]//g' > ${en_menu}
+    
 
     popd
    
@@ -101,6 +103,7 @@ do_trans
 
 echo ">>> Writing the README.md"
 do_README_header
+
 cat ${en_menu}  >> ${output}
 do_README_footer
 
