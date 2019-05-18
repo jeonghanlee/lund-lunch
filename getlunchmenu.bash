@@ -28,6 +28,9 @@ declare -gr SC_TOP="${SC_SCRIPT%/*}"
 declare -gr SC_LOGDATE="$(date +%y%m%d%H%M)"
 
 declare -gr trans_bin_path="translate-shell/build"
+declare -gr output=${SC_TOP}/README.md
+declare -gr sv_menu=${SC_TOP}/lt_sv.txt
+declare -gr en_menu=${SC_TOP}/lt_en.txt
 
 function pushd { builtin pushd "$@" > /dev/null; }
 function popd  { builtin popd  "$@" > /dev/null; }
@@ -51,22 +54,54 @@ function setup_trans
     make -C translate-shell
 }
 
+function do_README_header
+{
+    local weeknumber=`date +%V`
+    echo "Enjoy your lunch at Lund : WEEK $weeknumber" > ${output}
+    echo "==" >> ${output}
+    echo "*Life is good, today is your day!*" >> ${output}
+    printf "\n\n"  >> ${output}
+  
+}
+
+function do_README_footer
+{
+    echo "###" >> ${output}
+    echo "This file is generated at ${SC_LOGDATE}" >>  ${output}
+}
+
+function do_trans
+{
+
+    local content=$(curl -L http://mudhead.se/lt.html)
+    local tempfile=$(mktemp -q)
+    pushd ${trans_bin_path}
+
+    echo ">>> We are not in ${trans_bin_path}"
+    echo ${content} > lt.html
+
+    echo ">>> Extracting contents from the original one"
+    html2text lt.html 2>&1 | tee lt_sv_raw.txt
+    cat lt_sv.txt  |  sed "s/\*\*\*\*\*/ \n /2;s/\*\*\*\\**/#/1"
+    echo ">>> Extract Swedish Menu"
+    cat lt_sv_raw.txt  |  sed "s/\*\*\*\*\*/ \n /2;s/\*\*\*\\**/#/1" > ${sv_menu}
+      
+    echo ">>> Translating contents to English ..... "
+    ./trans -4 -show-languages n -e bing -s sv -t en --input ${sv_menu} 2>&1 | tee ${tempfile}
+    cat ${tempfile} | sed  -e '/\[I.*/d;/WARNING/d;/ERROR/d;/Valid/d;/^$/d;/^###/d;/^ \*/d' > ${en_menu}
+
+    popd
+   
+}
 
 
 setup_trans
 
+do_trans
 
-content=$(curl -L http://mudhead.se/lt.html)
+echo ">>> Writing the README.md"
+do_README_header
+cat ${en_menu}  >> ${output}
+do_README_footer
 
-pushd ${trans_bin_path}
-
-echo ${content} > lt.html
-
-html2text lt.html > lt_sv.txt
-
-#./trans lt_sv.txt > lt_en.txt
-
-popd
-
-
-
+exit
