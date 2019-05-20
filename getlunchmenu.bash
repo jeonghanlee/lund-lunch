@@ -28,7 +28,7 @@ declare -gr SC_TOP="${SC_SCRIPT%/*}"
 declare -gr SC_LOGDATE="$(date +%y%m%d%H%M)"
 
 declare -gr trans_bin_path="translate-shell/build"
-declare -gr output=${SC_TOP}/README.md
+declare -gr output=${SC_TOP}/README.txt
 declare -gr sv_menu=${SC_TOP}/lt_sv.txt
 declare -gr en_menu=${SC_TOP}/lt_en.txt
 
@@ -70,41 +70,101 @@ function do_README_footer
     echo "This file is generated at ${SC_LOGDATE}" >>  ${output}
 }
 
-function do_trans
+
+function do_download
 {
-
     local content=$(curl -L http://mudhead.se/lt.html)
-    local tempfile=$(mktemp -q)
+     
+    local tempfile1=$(mktemp -q)
     local tempfile2=$(mktemp -q)
+    
     pushd ${trans_bin_path}
-
     echo ">>> We are not in ${trans_bin_path}"
     echo ${content} > lt.html
 
     echo ">>> Extracting contents from the original one"
-    html2text lt.html 2>&1 | tee lt_sv_raw.txt
-    cat lt_sv.txt  |  sed "s/\*\*\*\*\*/ \n /2;s/\*\*\*\\**/#/1"
+    html2text lt.html 2>&1 | tee ${tempfile1}
     echo ">>> Extract Swedish Menu"
-    cat lt_sv_raw.txt  |  sed "s/\*\*\*\*\*/ \n /2;s/\*\*\*\\**/#/1" > ${sv_menu}
-      
-    echo ">>> Translating contents to English ..... "
-    ./trans -4 -no-warn -show-original n -show-prompt-message n -no-init -indent 0 -no-theme -show-languages n -e bing -s sv -t en --input ${sv_menu} 2>&1 | tee ${tempfile}
-    cat ${tempfile} | sed  -e '/\[I.*/d;/WARNING/d;/ERROR/d;/Valid/d;/^$/d;/^###/d;/^ \*/d;s/\x1b\[[0-9;]*m//g;s/\x1b\[[0-9;]*[a-zA-Z]//g;s/\x1b\[[0-9;]*[mGKH]//g;s/\x1b\[[0-9;]*[mGKF]//g' > ${en_menu}
-    
+    cat ${tempfile1} | sed "s/\*\*\*\*\*/ \n /2;s/\*\*\*\\**/#/1" > ${tempfile2}
+    cat ${tempfile2} | sed  -e '/\[I.*/d;/^\[Valid/d;/^###/d;/^ \*/d;s/^[[:space:]]*//g;s/\*/@/g' > ${sv_menu}
 
     popd
+    
+}
+
+function do_trans
+{
+
+ 
+    local tempfile1=$(mktemp -q)
+    local tempfile2=$(mktemp -q)
+
+    local line_list=();
+    local weekday=();
+
+    echo ""
+    while IFS= read -r line_data; do
+	if [ "$line_data" ]; then
+
+	    if [[ $line_data =~ ^\#.* ]]; then
+		echo "------ $i : ${line_data}"
+	    elif [[ $line_data =~ \@ ]]; then
+		if [[ $line_data != ^\*.* ]]; then
+		    echo ${line_data} | sed 's/\@/\'$'\n\@/g' > ${tempfile1}
+		    line_data=$(cat ${tempfile1})
+		    line_list[i]="${line_data}"
+		    echo "<<<... $i : ${line_data}"
+		else
+		    #		    line_list[i]="${line_data}"
+		    echo ">>>... $i : ${line_data}"
+
+		fi
+	    else
+		# 		line_data="${line_list[i-1]}"
+		# 		line_data+=" "
+		# 		line_date+="${line_data}"
+		# #		line_list[i-1]="${line_list[i-1]} ${line_data}"
+		echo "...... $i : ${line_data}"
+		#		((--i))
+	    fi
+	    
+	    ((++i))
+#	    echo "...... $i : ${line_data}"
+
+	    
+	    # if [[ $string == *foo* ]]
+	    # [[ "$line_data" == ^.*\*.* ]] && continue
+	    # #	    raw_pvlist[i]="${line_data}"
+	    # line_list[i]="${line_data}"
+	    # echo "$i : ${line_data}"
+	    # ((++i))
+	fi
+    done < "${sv_menu}"
+
+    # for aline in ${line_list[@]}; do
+    # 	    echo "??? $aline"
+    # done
+    
+    # echo ">>> Translating contents to English ..... "
+    # ./trans -4 -no-warn -show-original n -show-prompt-message n -no-init -indent 0 -no-theme -show-languages n -e bing -s sv -t en --input ${sv_menu} 2>&1 | tee ${tempfile}
+    # cat ${tempfile} | sed  -e '/\[I.*/d;/WARNING/d;/ERROR/d;/Valid/d;/^$/d;/^###/d;/^ \*/d;s/\x1b\[[0-9;]*m//g;s/\x1b\[[0-9;]*[a-zA-Z]//g;s/\x1b\[[0-9;]*[mGKH]//g;s/\x1b\[[0-9;]*[mGKF]//g;/s/$/\n/g;s/^[[:space:]]*//g' > ${tempfile2}
+    
+
    
 }
 
 
-setup_trans
+#setup_trans
+do_download
 
 do_trans
 
-echo ">>> Writing the README.md"
-do_README_header
 
-cat ${en_menu}  >> ${output}
-do_README_footer
+
+# echo ">>> Writing the ${output}"
+# do_README_header
+
+# cat ${en_menu}  >> ${output}
+# do_README_footer
 
 exit
