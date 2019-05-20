@@ -8,18 +8,12 @@ branches:
   only:
     - master
 
-git:
-  submodules: false
-
-env:
-  global:
-    - E3_PATH=${TRAVIS_BUILD_DIR}/epics
-    - MOD_GA=eal
-
 before_install:
-  - sudo apt-get install -y html3text
+  - sudo apt-get install -y lynx
 
 install:
+  - bash getlunchmenu.bash
 
 after_success:
+  - cat README.md
 
