@@ -1,19 +1,15 @@
 sudo: enabled
-
 dist: xenial
-
 language: generic
-
 branches:
   only:
-    - master
-
+  - master
 before_install:
-  - sudo apt-get install -y lynx
-
+- sudo apt-get install -y lynx
 install:
-  - bash getlunchmenu.bash
-
+- bash getlunchmenu.bash
 after_success:
-  - cat README.md
-
+- bash .travis_push.bash
+env:
+  global:
+    secure: K4UDzju+g5WlwdFrj4nxqXZbm1ENr38X5vL4KSNsTULZgnyBvZERxXNXCr2Vs4LqoGGEtbkf3eHPcYZPfsfgp1VFUs5EOA7ZpjSA/DMlXNp9VTyz6kXGVGDBRfrBbkOkheDznhdIH4IYbH/YWcrw2tVbuK/JbVNyoIP+ttyJFha1710ytRlbq1KgbLU75BtD0ZvCZTqxUKn9Iv6ASIsv8JGuRbE8P+WFa/JddZK/9NDUJqnF08IOX9XqqTxfGanyZq9ZXkUBsQBF7Bn14qUOfDaEf55lPDpNOOAXQV2GXdYW1I2Prd3TV1242zrXH5u9J5bulGq4uAHkgbMjqxnKPED7xT3uUKphjMSPaoB1FWGbdipiEQDy5rR1IvRXpPxYnQ2yiSNwA5SHawEngFvw2VtJfQOWXsxaoUumYkcsTSV4VB3j1qHKtA+huUoPeP4tauht37J0EC118YhRZh/giTTqCXKZPjqhT9kSgUpPO3fEyyGUJw37kQrsK8XIHQ6S8lsIlVISQOUhxlHTlnM1vCxCG6O7VoiSwbPSCUf0fP1+3deIxRokAT6hFc7AgFxiTIvyS0D1Zd5E5w+NgrrAnTfAw+joyCN8DyGDHYze0d08UVLOUSYLqZGjygImbzn8rgbkMwwJL7f3ezXOrnV+XKf4essDPztR84VImde7CcU=
