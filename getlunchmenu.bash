@@ -31,6 +31,7 @@ declare -gr trans_bin_path="translate-shell/build"
 declare -gr output=${SC_TOP}/README.md
 declare -gr sv_menu=${SC_TOP}/lt_sv.txt
 declare -gr en_menu=${SC_TOP}/lt_en.txt
+declare -gr travis_status=${SC_TOP}/travis_header
 
 declare -gr sv_source="http://mudhead.se/lt.html"
 
@@ -62,6 +63,7 @@ function do_README_header
     local weeknumber=`date +%V`
     echo "Enjoy your lunch at Lund : Week $weeknumber" > ${output}
     echo "==" >> ${output}
+    cat ${travis_status} >> ${output}
     echo "*Life is good, today is your day!*" >> ${output}
     printf "\n\n"  >> ${output}
   

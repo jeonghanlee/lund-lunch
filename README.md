@@ -1,5 +1,8 @@
 Enjoy your lunch at Lund : WEEK 21
 ==
+
+[![Build Status](https://travis-ci.org/jeonghanlee/lund-lunch.svg?branch=master)](https://travis-ci.org/jeonghanlee/lund-lunch)
+
 *Life is good, today is your day!*
 
 
