@@ -21,7 +21,7 @@ Måndag
        fritters, soy mayonnaise and broccoli
 
      [4]Cafe Bryggan
-     * Ingen meny vecka 23
+     * .
 
    [5]Finn Inn
      * Panerad skinkschnitzel med skysås & persiljesmör
@@ -44,19 +44,25 @@ Måndag
 
    [9]Magnus Kitchen
      * Köttfärslimpa med kokt potatis, gräddsås och lingon.​
-     * Veckans: Wrap med strimlad biff, kimchi, syrad kål och
+     * Veckans: Wrap med strimlad biff, kimchi syrad kål och
        wasabimajonäs.
 
    [10]Medicon Village
-     * —
+     * Kotlett av Linderödsgris från Löberöd med svampsås, gelé, persilja,
+       morot och kokt potatis
+     * Pasta Pomodoro (tomat) med buffelmozzarella, basilikaolja och
+       parmesanost
+     * Lasagne al forno med tomatsallad och rödlök
+     * Dagens sallad med köttfärslimpa, soja och timjan
+     * Sparris
 
-      [11]Nya Hilda
-     * Ingen meny vecka 23
+   [11]Paolos
+     * PASTA: POLLO ALLA LIGURE (kyckling, citron, svarta oliver, grädde)
+     * PASTA: POMMODORINI E PINOLI (körsbärstomater, basilika,
+       pinjenötter)
+     * PIZZOR: CAPRICCIOSA | DIAVOLA | SICILIANA
 
-       [12]Paolos
-     * Ingen meny vecka 23
-
-   [13]Scotland Yard
+   [12]Scotland Yard
      * Falafel med rödlökscreme och kryddig cous-cous och rostad broccoli
      * Köttfärslimpa med bacon, zucchini och gröna bönor, gräddsås,
        potatismos och lingon
@@ -66,15 +72,15 @@ Måndag
 
 Tisdag
 
-   [14]Annas Kök
+   [13]Annas Kök
      * Pannbiff på skånsk färs serveras med karamelliserad lökpuré,
        grillad knipplök, bakade morötter, rostad potatis, gräddsås och
        rårörda vinbär
 
-       [15]Aptiten
+       [14]Aptiten
      *
 
-   [16]Bricks Eatery
+   [15]Bricks Eatery
      * Kalops med morötter och picklade betor Beef stew with carrots and
        pickled beets
      * Färsbiffar med cheddar, jalapeños och BBQ-sås Mince patties with
@@ -84,44 +90,47 @@ Tisdag
      * Pizza: Creme fraiche, mozzarella, kallrökt torsk, gräslök Cream
        fraiche, mozzarella, cold smoked cod, chives
 
-    [17]Cafe Bryggan
-     * Ingen meny vecka 23
+    [16]Cafe Bryggan
+     * Stekt Kabanoss med feta-potatisstomp, rucola och ajvarcréme
 
-   [18]Finn Inn
+   [17]Finn Inn
      * Köttbullar med potatismos, gräddsås & lingon
      * Wasabiräkor med pärlcouscous & srirachamajonäs (LF)
      * Falafel med skysås & potatismos
 
-     [19]Höjdpunkten
+     [18]Höjdpunkten
      * Korv stroganoff,serveras med ris och creme fraiche.
      * Färsbiff med dijonsås,potatis och lingonsylt
 
-   [20]Ideon Delta
+   [19]Ideon Delta
      * Raggmunkar med stekt fläsk och rårörda lingon
      * Ugnsbakad kycklinfilé med ett täcke av fetaost och sambal serveras
        med ört och frukt bulgur
      * Het quorngryta med stekt potatis
 
-   [21]Ideon Edison
+   [20]Ideon Edison
      * Frittata med säsongens gröna, färskost & basilika
      * Nattabakad högrev med timjan & tryffelsky & bakade tomater
      * Fish tacos med svarta bönor, chili, mangosalsa och tortilliabröd
 
-   [22]Magnus Kitchen
+   [21]Magnus Kitchen
      * Panerad spätta med kokt potatis och remulade.​
-     * Veckans: Wrap med strimlad biff, kimchi, syrad kål och
+     * Veckans: Wrap med strimlad biff, kimchi syrad kål och
        wasabimajonäs.
 
-   [23]Medicon Village
-     * —
+   [22]Medicon Village
+     * Havskatt med vinägerfläsk, rödvinssås, bakade lökar och potatispuré
+     * Persisk gryta med morot, potatis, gröna bönor och tomat
+     * Kyckling Quesadillas med majs, chili och avokadokräm
+     * Dagens sallad med kotlet samt morot, vinäger och honungDagens
+       soppa: Tomatsoppa smaksatt med timjan
 
-      [24]Nya Hilda
-     * Ingen meny vecka 23
+   [23]Paolos
+     * PASTA: CARBONARA (pancetta, lök, grädde, svartpeppar)
+     * PASTA: POMODORE E CARCIOFI(tomatsås, kronärtskocka)
+     * PIZZOR: BOSCAIOLA | SALUMI MISTI | PARMIGIANA
 
-       [25]Paolos
-     * Ingen meny vecka 23
-
-   [26]Scotland Yard
+   [24]Scotland Yard
      * Jambalaya med quorn, grönsaker och het tomatsalsa
      * Nötfärsbiff med bakad morot med rödlök, bearnaise och
        chili-klyftpotatis
@@ -130,15 +139,15 @@ Tisdag
 
 Onsdag
 
-   [27]Annas Kök
+   [25]Annas Kök
      * Dagens färska panerade fisk serveras med ångad och råhyvlad
        broccoli, picklad gurka, örtslungad färskpotatis, fläderhollandaise
        och krasse
 
-       [28]Aptiten
+       [26]Aptiten
      *
 
-   [29]Bricks Eatery
+   [27]Bricks Eatery
      * Danskt tema Stekt panerad fisk med remouladsås, citron och dill
        Fried breaded fish with remoulade sauce, lemon and dill
      * WoldwideDanskt tema Fläskestek sandwich med rödkål och picklad
@@ -148,46 +157,49 @@ Onsdag
      * Pizza: Crème fraiche, mozzarella, kallrökt torsk, gräslök Cream
        fraiche, mozzarella, cold smoked cod, chives
 
-    [30]Cafe Bryggan
-     * Ingen meny vecka 23
+    [28]Cafe Bryggan
+     * Kokt rimmad oxbringa med kokt potatis och sötsyrlig dillcréme
 
-   [31]Finn Inn
+   [29]Finn Inn
      * Marinerad fläskfilé med potatis-& grönsakspaj
      * x
      * Pastasallad med rödbetor, chevré & senapsdressing (LF)
      * Marinerad ostronskivling, rostad mandel & potatis-& grönsakspaj
 
-   [32]Höjdpunkten
+   [30]Höjdpunkten
      * Stekta isterband med stuvad potatis,rödbetor och senap.
      * Fiskgratäng med räkor och dill,gratinerat potatismos,gröna kokta
        ärtor.
 
-   [33]Ideon Delta
+   [31]Ideon Delta
      * Dansk femöring med stekt ägg, lök och sky samt stekt potatis och
        saltgurka
      * pizza med kronärtskockshjärta, paprika och oliver samt
        vitkålssallad
 
-   [34]Ideon Edison
+   [32]Ideon Edison
      * Bakad sötpotatis med bönröra & nachochips
      * Färsbiffar med libbsticka, vinbärsgräddsås & kokt potatis
      * Kyckling, örtsmulor, salsaverde & rostad potatis
 
-   [35]Magnus Kitchen
-     * .​
-     * Veckans: Wrap med strimlad biff, kimchi, syrad kål och
+   [33]Magnus Kitchen
+     * Angus cheese burgare med två dressingar.​
+     * Veckans: Wrap med strimlad biff, kimchi syrad kål och
        wasabimajonäs.
 
-   [36]Medicon Village
-     * —
+   [34]Medicon Village
+     * Wallenbergare på kalvfärs med brynt smör, ärtor och potatispuré
+     * Nudelwok med Tzai, paprika, purjolök, basilika och soja
+     * Osso Bocco av fläskkarré med örtrostad potatis, tomatsås och rostad
+       citron
+     * Dagens sallad med huvudtillbehör(Kött, fisk eller skaldjur)
 
-      [37]Nya Hilda
-     * Ingen meny vecka 23
+   [35]Paolos
+     * PASTA: VELUTATA DI SALMONE FUMICIATO(kallrökt lax,grädde)
+     * PASTA: CREMA DI PEPERONI (tomat, paprika, örter, grädde)
+     * PIZZOR: CALABRESE | PARMA | PRIMAVERA
 
-       [38]Paolos
-     * Ingen meny vecka 23
-
-   [39]Scotland Yard
+   [36]Scotland Yard
      * Vegetariska vårrullar med sötad soyasås och jasminris
      * Paella med lax, räkor, saffran och musslor med citroncremé
      * Lammfärsbiffar med chevré och päronspread, balsamicosky,
@@ -196,61 +208,59 @@ Onsdag
 
 Torsdag
 
-      [40]Annas Kök
+      [37]Annas Kök
      * STÄNGT!
 
-       [41]Aptiten
+       [38]Aptiten
      *
 
-    [42]Bricks Eatery
+    [39]Bricks Eatery
      * Torsdag är restaurangen stängd! Thursday the restaurant is closed!
 
-    [43]Cafe Bryggan
-     * Ingen meny vecka 23
+    [40]Cafe Bryggan
+     * Med anledning av Sveriges nationaldag och svenska flaggans dag
+       håller vi idag stängt.
 
-   [44]Finn Inn
+   [41]Finn Inn
      * STÄNGT
      * x
      * x
      * x
 
-     [45]Höjdpunkten
+     [42]Höjdpunkten
      *
 
-     [46]Ideon Delta
+     [43]Ideon Delta
      * STÄNGT
 
-    [47]Ideon Edison
+    [44]Ideon Edison
      * 6e & 7e Juni håller vi stängt, välkomna åter måndag den 10 juni
 
-   [48]Magnus Kitchen
+   [45]Magnus Kitchen
      * SVERIGES NATIONALDAG STÄNGT.
-     * Veckans: Wrap med strimlad biff, kimchi, syrad kål och
+     * Veckans: Wrap med strimlad biff, kimchi syrad kål och
        wasabimajonäs.
 
-   [49]Medicon Village
-     * —
+   [46]Medicon Village
+     *
 
-      [50]Nya Hilda
-     * Ingen meny vecka 23
+       [47]Paolos
+     * STÄNGT
 
-       [51]Paolos
-     * Ingen meny vecka 23
-
-    [52]Scotland Yard
+    [48]Scotland Yard
      * —
 
 Fredag
 
-   [53]Annas Kök
+   [49]Annas Kök
      * Sloppy Joe burgare serveras i nybakat briochebröd med sallad,
        picklad lök, färsk jalapeno, cheddarost, rostad majskräm och
        klyftpotatis
 
-       [54]Aptiten
+       [50]Aptiten
      *
 
-   [55]Bricks Eatery
+   [51]Bricks Eatery
      * Karré med ramslökskräm, picklad lök och morot Pork with ramson
        cream, pickled onion and carrot
      * Fishcakes med chilimajjo och sesamrostad potatis Fishcakes with
@@ -258,43 +268,42 @@ Fredag
      * Fylld pasta med brynt smör, salvia och pumpapuré Stuffed pasta with
        brown butter, sage and pumpkin purée
 
-    [56]Cafe Bryggan
-     * Ingen meny vecka 23
+    [52]Cafe Bryggan
+     * Stängt även idag på svenska flaggans annandag.
 
-   [57]Finn Inn
+   [53]Finn Inn
      * STÄNGT
      * x
      * x
 
-     [58]Höjdpunkten
+     [54]Höjdpunkten
      * Stekt panerad torskfile med skarpsås,kokt potatis.
      * Stekta kryddiga korvar med senapsrelish,potatis.
 
-     [59]Ideon Delta
+     [55]Ideon Delta
      * STÄNGT
 
-    [60]Ideon Edison
+    [56]Ideon Edison
      * IDAG HÅLLER VI STÄNGT OCH VILAR UPP OSS! VÄLKOMMEN ÅTER PÅ MÅNDAG.
 
-   [61]Magnus Kitchen
-     * .
-     * Veckans: Wrap med strimlad biff, kimchi, syrad kål och
+   [57]Magnus Kitchen
+     * STÄNGT .
+     * Veckans: Wrap med strimlad biff, kimchi syrad kål och
        wasabimajonäs.
 
-   [62]Medicon Village
+   [58]Medicon Village
+     *
+
+   [59]Paolos
+     * PASTA: SALSICCIA AL SUGO(tomat,vitt vin, salsiccia)
+     * PASTA: VELLUTATA DI FUNGHI (svamp, grädde, örter)
+     * PIZZOR: FUNGHI E COPPA | PANCETTA | CAPRINHA
+
+    [60]Scotland Yard
      * —
 
-      [63]Nya Hilda
-     * Ingen meny vecka 23
-
-       [64]Paolos
-     * Ingen meny vecka 23
-
-    [65]Scotland Yard
-     * —
-
-   Generated at 2019-06-03 10:00:01 by cotopaxi
-   [66]Valid XHTML 1.1 [67]Valid CSS
+   Generated at 2019-06-04 16:23:33 by cotopaxi
+   [61]Valid XHTML 1.1 [62]Valid CSS
 
 References
 
@@ -308,60 +317,55 @@ References
    8. http://restaurangedison.se/lunch
    9. http://magnuskitchen.se/veckans-lunch.aspx
   10. https://www.mediconvillage.se/sv/restaurant-cafe-inspira
-  11. https://eurest.mashie.com/public/menu/restaurang+hilda/8b31f89a
-  12. https://www.elite.se/sv/hotell/lund/hotel-ideon/paolos/
-  13. https://www.fazerfoodco.se/restauranger/restauranger/scotland-yard/
-  14. http://www.annaskok.se/
-  15. http://aptiten.net/#page-menu
-  16. http://brickseatery.se/lunch
-  17. http://www.bryggancafe.se/veckans-lunch/
-  18. http://www.finninn.se/lunch-meny/
-  19. http://www.restauranghojdpunkten.se/index.php?page=Meny
-  20. https://serviceportal.sodexo.se/sv/delta/Start/Lunchmeny/
-  21. http://restaurangedison.se/lunch
-  22. http://magnuskitchen.se/veckans-lunch.aspx
-  23. https://www.mediconvillage.se/sv/restaurant-cafe-inspira
-  24. https://eurest.mashie.com/public/menu/restaurang+hilda/8b31f89a
-  25. https://www.elite.se/sv/hotell/lund/hotel-ideon/paolos/
-  26. https://www.fazerfoodco.se/restauranger/restauranger/scotland-yard/
-  27. http://www.annaskok.se/
-  28. http://aptiten.net/#page-menu
-  29. http://brickseatery.se/lunch
-  30. http://www.bryggancafe.se/veckans-lunch/
-  31. http://www.finninn.se/lunch-meny/
-  32. http://www.restauranghojdpunkten.se/index.php?page=Meny
-  33. https://serviceportal.sodexo.se/sv/delta/Start/Lunchmeny/
-  34. http://restaurangedison.se/lunch
-  35. http://magnuskitchen.se/veckans-lunch.aspx
-  36. https://www.mediconvillage.se/sv/restaurant-cafe-inspira
-  37. https://eurest.mashie.com/public/menu/restaurang+hilda/8b31f89a
-  38. https://www.elite.se/sv/hotell/lund/hotel-ideon/paolos/
-  39. https://www.fazerfoodco.se/restauranger/restauranger/scotland-yard/
-  40. http://www.annaskok.se/
-  41. http://aptiten.net/#page-menu
-  42. http://brickseatery.se/lunch
-  43. http://www.bryggancafe.se/veckans-lunch/
-  44. http://www.finninn.se/lunch-meny/
-  45. http://www.restauranghojdpunkten.se/index.php?page=Meny
-  46. https://serviceportal.sodexo.se/sv/delta/Start/Lunchmeny/
-  47. http://restaurangedison.se/lunch
-  48. http://magnuskitchen.se/veckans-lunch.aspx
-  49. https://www.mediconvillage.se/sv/restaurant-cafe-inspira
-  50. https://eurest.mashie.com/public/menu/restaurang+hilda/8b31f89a
-  51. https://www.elite.se/sv/hotell/lund/hotel-ideon/paolos/
-  52. https://www.fazerfoodco.se/restauranger/restauranger/scotland-yard/
-  53. http://www.annaskok.se/
-  54. http://aptiten.net/#page-menu
-  55. http://brickseatery.se/lunch
-  56. http://www.bryggancafe.se/veckans-lunch/
-  57. http://www.finninn.se/lunch-meny/
-  58. http://www.restauranghojdpunkten.se/index.php?page=Meny
-  59. https://serviceportal.sodexo.se/sv/delta/Start/Lunchmeny/
-  60. http://restaurangedison.se/lunch
-  61. http://magnuskitchen.se/veckans-lunch.aspx
-  62. https://www.mediconvillage.se/sv/restaurant-cafe-inspira
-  63. https://eurest.mashie.com/public/menu/restaurang+hilda/8b31f89a
-  64. https://www.elite.se/sv/hotell/lund/hotel-ideon/paolos/
-  65. https://www.fazerfoodco.se/restauranger/restauranger/scotland-yard/
-  66. https://validator.w3.org/check?uri=referer
-  67. https://jigsaw.w3.org/css-validator/check/referer
+  11. https://www.elite.se/sv/hotell/lund/hotel-ideon/paolos/
+  12. https://www.fazerfoodco.se/restauranger/restauranger/scotland-yard/
+  13. http://www.annaskok.se/
+  14. http://aptiten.net/#page-menu
+  15. http://brickseatery.se/lunch
+  16. http://www.bryggancafe.se/veckans-lunch/
+  17. http://www.finninn.se/lunch-meny/
+  18. http://www.restauranghojdpunkten.se/index.php?page=Meny
+  19. https://serviceportal.sodexo.se/sv/delta/Start/Lunchmeny/
+  20. http://restaurangedison.se/lunch
+  21. http://magnuskitchen.se/veckans-lunch.aspx
+  22. https://www.mediconvillage.se/sv/restaurant-cafe-inspira
+  23. https://www.elite.se/sv/hotell/lund/hotel-ideon/paolos/
+  24. https://www.fazerfoodco.se/restauranger/restauranger/scotland-yard/
+  25. http://www.annaskok.se/
+  26. http://aptiten.net/#page-menu
+  27. http://brickseatery.se/lunch
+  28. http://www.bryggancafe.se/veckans-lunch/
+  29. http://www.finninn.se/lunch-meny/
+  30. http://www.restauranghojdpunkten.se/index.php?page=Meny
+  31. https://serviceportal.sodexo.se/sv/delta/Start/Lunchmeny/
+  32. http://restaurangedison.se/lunch
+  33. http://magnuskitchen.se/veckans-lunch.aspx
+  34. https://www.mediconvillage.se/sv/restaurant-cafe-inspira
+  35. https://www.elite.se/sv/hotell/lund/hotel-ideon/paolos/
+  36. https://www.fazerfoodco.se/restauranger/restauranger/scotland-yard/
+  37. http://www.annaskok.se/
+  38. http://aptiten.net/#page-menu
+  39. http://brickseatery.se/lunch
+  40. http://www.bryggancafe.se/veckans-lunch/
+  41. http://www.finninn.se/lunch-meny/
+  42. http://www.restauranghojdpunkten.se/index.php?page=Meny
+  43. https://serviceportal.sodexo.se/sv/delta/Start/Lunchmeny/
+  44. http://restaurangedison.se/lunch
+  45. http://magnuskitchen.se/veckans-lunch.aspx
+  46. https://www.mediconvillage.se/sv/restaurant-cafe-inspira
+  47. https://www.elite.se/sv/hotell/lund/hotel-ideon/paolos/
+  48. https://www.fazerfoodco.se/restauranger/restauranger/scotland-yard/
+  49. http://www.annaskok.se/
+  50. http://aptiten.net/#page-menu
+  51. http://brickseatery.se/lunch
+  52. http://www.bryggancafe.se/veckans-lunch/
+  53. http://www.finninn.se/lunch-meny/
+  54. http://www.restauranghojdpunkten.se/index.php?page=Meny
+  55. https://serviceportal.sodexo.se/sv/delta/Start/Lunchmeny/
+  56. http://restaurangedison.se/lunch
+  57. http://magnuskitchen.se/veckans-lunch.aspx
+  58. https://www.mediconvillage.se/sv/restaurant-cafe-inspira
+  59. https://www.elite.se/sv/hotell/lund/hotel-ideon/paolos/
+  60. https://www.fazerfoodco.se/restauranger/restauranger/scotland-yard/
+  61. https://validator.w3.org/check?uri=referer
+  62. https://jigsaw.w3.org/css-validator/check/referer
