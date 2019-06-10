@@ -1,4 +1,4 @@
-Enjoy your lunch at Lund : Week 23
+Enjoy your lunch at Lund : Week 24
 ==
 
 [![Build Status](https://travis-ci.org/jeonghanlee/lund-lunch.svg?branch=master)](https://travis-ci.org/jeonghanlee/lund-lunch)
@@ -6,254 +6,261 @@ Enjoy your lunch at Lund : Week 23
 *Life is good, today is your day!*
 
 
-Menu Week 23 (2019-06-03 — 06-07)
+Menu Week 24 (2019-06-10 — 06-14)
 In Heart bacon
 
 # Monday
 
 ### 1 Anna's Kitchen
-* Barbecue Monday! 129:-Charcoal-grilled hoisinglaserat chuck and
-Ginger Chicken thigh fillet served with grilled pak choi,
-Asian noodle salad, pickled cabbage and Kimchimajonnäs
+* Barbecue Monday! 129:-Grilled Nattbakad loin, herb marinated
+Chicken and fresh salsiccia served with grilled
+Mediterranean vegetables, tomato salad, pasta salad, pesto and
+parmesankräm
 ### 2 Appetite
 *
 ### 3 Bricks Eatery
-* Dumplings with clarified butter, lingonberries and haricots vert Potato
-Dumplings with melted butter, lingonberry and haricots vert
-* Chicken stew Thaistyle with roasted coconut, rice and kaffir chicken
-Stew Thai style with roasted coconut, rice and lime leaves
-* Cabbage & potato fritters, Sojamajonnäs and broccoli Cabbage & Potato
-Fritters, soy mayonnaise and broccoli
+* Isterband with lukewarm potatoes and spinach salad and dijondressing
+* Bricks Chicken Vindaloo with raita and rice
+* Gratinéed Pumpaburrito with avocado and coriander sauce
 ### 4 Cafe Jetty
-* .
+* Breaded kummelfilé with Remouladesås, boiled potatoes and green peas
 ### 5 Finn Inn
-* Breaded Skinkschnitzel with gravy & parsley butter
-* Salmon with hot noodles & sambal oelekdressing (GF) (LF)
-* Schnitzel with gravy & parsley butter
-### 6 Highlight
-* Scanian beef stew, served with beets and boiled potatoes.
-* Chicken in tarragon sauce, served with rice.
+* Provencal loin with tomato-& lens Salsa & Purjopotatis (GF) (LF)
+* Chicken Salad with bacon & herbdressing (GF) (LF)
+* Vegetable Steak with tomato-& lens salsa & Purjopotatis
+V60 Highlight
+* —
 ### 7 Ideon Delta
-* Dumplings with clarified butter and lingonberries
-* Cheese and paprika baked fish fillet with roasted parsnips
-* Cauliflower Tikka Masala with rice
+* (CHU-CHEE PLAD TOD) fried fish with red curry sauce and rice
+* Roasted chicken fillet with roasted wheat berries, vegetables and dill
+Lemon and Honungskräm
+* Curry potatoes and chickpeas served
 ### 8 Ideon Edison
-* Broccoligratäng with lentil salad & lemon yoghurt
-* Örtstekt pig with carrot, boiled fresh potato & vitlökscreme
-* Cashew chicken with, paprika, onion & egg noodles
+* Whole baked cauliflower with browned buttercream & croutons
+* Chops from Ystad pig, Persiljesky, haricotverts & Potatoes
+* Indian steak stew with tomato and lökchutney
 ### 9 Magnus Kitchen
-* Meatloaf with boiled potatoes, cream sauce and lingonberries.
-* Weekly: Wrap with shredded steak, kimchi pickled cabbage and
-wasabimajonäs.
+* Hash in boiler with fried egg and beets.
+* Weekly: Chili con carne with rice, nachos and soured cream.
 ### 10 Medicon Village
-* Chops of Linderödsgris from Löberöd with mushroom, jelly, parsley,
-Carrot and boiled potatoes
-* Pasta Pomodoro (tomato) with mozzarella, basil oil and
-Parmesan
-* Lasagna al Forno with tomato salad and red onion
-* Today's salad with meatloaf, soy and thyme
-* Asparagus
+* Smoked cutlet with potato salad, asparagus, radish, spring onion,
+Sun-dried tomato and lime yoghurt
+* Pie with broccoli, chèvre and lettuce with yellow Mediterranean lenses:
+Sandskäddafilé with browned butter, horseradish, dill, peas and
+Potato
+* Featured salad with main accessories (meat, fish or shellfish)
 ### 11 Paolo's
-* PASTA: POLLo ALLA LIGURE (chicken, lemon, black olives, cream)
-* PASTA: POMMODORINI E PINOLI (cherry tomatoes, basil,
-Pine
-* PIZZAS: CAPRICCIOSA | DIAVOLA | Siciliana
+* No Menu Week 24
 ### 12 Scotland Yard
-* Falafel with Rödlökscreme and spicy cous-cous and roasted broccoli
-* Meatloaf with bacon, zucchini and green beans, cream sauce,
-Mashed potatoes and lingonberries
-* Fried breaded flounder fillet with Remouladesås, fennel salad and
-Potatoes with dill
-* Carrot soup with chives and chili
+* Sesamrostade root vegetables and soybeans with chilinudlar
+* Sausage Stroganoff with sour cream and jasmine rice and broccoli
+* Cured alaskafilé with cape rice berries, beetroot, spinach, browned whipped
+butter, potato purée
+* Ängasoppa
 
 # Tuesday
 
 ### 13 Anna's Kitchen
-* Bifteki of Skåne mince served with caramelized lökpuré,
-Grilled spring onions, baked carrots, roasted potatoes, cream sauce and
-Preserved currants
+* Mörbakat soy and sesammarinerat knuckle served with
+Sesamrostade carrots, pickled carrot, asian broth and steamed
+Jasmine rice
 ### 14 Appetite
 *
 ### 15 Bricks Eatery
-* Beef stew with carrots and pickled beets Beef stew with carrots and
-Pickled beets
-* Patties with Cheddar, jalapeños and BBQ sauce Mince patties with
-Cheddar, jalapeños and BBQ sauce
-* Soup with coconut milk, tofu and crispy vegetables Soup with coconut
-Milk, tofu and crispy vegetables
-* Pizza: sour cream, mozzarella, cold smoked cod, chives Cream
-Fraiche, mozzarella, cold smoked cod, chives
+* Roasted calf with sage butter, scanian tomatoes and spring onion
+* Today's catch with Mexican Salsa verde and sweet potatoes
+* Halloumisallad with hummus, zucchini, roasted seeds and spinach
+* Pizza: Tomato sauce, cheddar, jalapeno, pickled onion, mince
 ### 16 Cafe Jetty
-* Fried Kabanoss with feta-mashed potatoes, arugula and ajvarcréme
+* Veal meatloaf with cream sauce, pickled cucumber and boiled potatoes
 ### 17 Finn Inn
-* Meatballs with mashed potatoes, cream sauce & lingonberries
-* Wasabiräkor with Pärlcouscous & Srirachamajonäs (LF)
-* Falafel with gravy & mashed potatoes
+* Veal meatloaf with Port wine-& mushroom, Råstekta carrots &
+Roasted potatoes
+* Broccoli-& Blomkålssallad with quinoa & vinaigrette (GF) (LF)
+* Färslimpa with Port wine-& mushroom, Råstekta carrots & roasted
+Potatoes
 ### 18 Highlight
-* Sausage Stroganoff, served with rice and sour cream.
-* Burger with Dijonsås, potatoes and lingonberry
+* —
 ### 19 Ideon Delta
-* Ragged mouth with fried pork and lingonberries
-* Baked kycklinfilé with a duvet of feta cheese and sambal served
-With Herb and fruit bulgur
-* Hot quorngryta with fried potatoes
+* Isterband on lökbädd with creamed potatoes and beets
+* Honey marinated ham steak with creamy lemon sauce and potatoes
+* Pasta with Quornfärssås and grated cheese
 ### 20 Ideon Edison
-* Frittata with seasonal greens, cream cheese & basil
-* Nattabakaded chuck steak with thyme & truffle gravy & baked tomatoes
-* Fish tacos with black beans, chili, mango salsa and Tortilliabröd
+* Kikärtsbiffar with Sötpotatiskräm & Ruccola
+* Chicken with 3x onion; Crispy garlic, baked spring onions & lökcreme
+* Picnicbog with roasted coconut, sesame seed, honey & pickled vegetables
 ### 21 Magnus Kitchen
-* Breaded plaice with boiled potatoes and remuled.
-* Weekly: Wrap with shredded steak, kimchi pickled cabbage and
-wasabimajonäs.
+* Braised kycklingfilè with rice, curry and pickled cucumber.
+* Weekly: Chili con carne with rice, nachos and soured cream.
 ### 22 Medicon Village
-* Catfish with vinegar pork, red wine sauce, baked bulbs and mashed potatoes
-* Persian stew with carrot, potato, green beans and tomato
-* Chicken Quesadillas with corn, chili and avocado cream
-* Today's salad with kotlet and carrot, vinegar and honungDagens
-Soup: tomato soup flavoured with thyme
+* Kumminbakad loin of Linderödsgris with sauerkraut of cabbage,
+Red wine gravy, deep-fried capers and roasted potatoes
+* Morotsbiff with potato wedges, mangoyoghurt and cucumber-& Myntasallad
+* Pulled Beef (långkokt, seasoned beef) in the tortilla with sour cream,
+red onion, corn, tomato and mole (Chili/chocolate Touch)
+* Featured salad with main accessories (meat, fish or shellfish)
 ### 23 Paolo's
-* PASTA: CARBONARA (pancetta, onion, cream, black pepper)
-* PASTA: POMODORE E CARCIOFI (tomato sauce, artichoke)
-* PIZZAS: BOSCAIOLA | SALUMI MISTI | PARMIGIANA
+* No Menu Week 24
 ### 24 Scotland Yard
-* Jambalaya with Quorn, vegetables and hot tomato salsa
-* Nötfärsbiff with baked carrot with red onion, bearnaise and
-Chili Potato Wedges
-* Indian fish curry with mint yoghurt, zucchini, paprika and potatoes
-* Potato soup with leek
+* Risotto on wheat grain with mushrooms and baked celleriac cauliflower and Ruccolapesto
+* Chiliglacerad chicken with ratatouille, roasted parsnip and
+Potatoes with herbs
+* Brazilian fish with coriander and roasted almonds
+* Tomato Soup
 
 # Wednesday
 
 ### 25 Anna's Kitchen
-* Today's fresh breaded fish served with steamed and Råhyvlad
-Broccoli, pickled cucumber, örtslungaded fresh potatoes, fläderhollandaise
-and cress
+* Fish Stew "bouillabaisse" with today's fresh fish, peeled shrimp
+and Vitvinskokta blue mussels with tomato and shellfish sauce, fennel,
+Rouille and boiled potatoes
 ### 26 Appetite
 *
 ### 27 Bricks Eatery
-* Danish theme fried breaded fish with remoulade, lemon and dill
-Fried breaded fish with remoulade sauce, lemon and dill
-* WoldwideDanskt theme Fläskestek sandwich with cabbage and pickled
-Cucumber Pork steak sandwich with red cabbage and pickled cucumber
-* Palak paneer with cheese, tomato and coriander Palak paneer with cheese,
-Tomato and coriander
-* Pizza: Crème fraiche, mozzarella, cold smoked cod, chives Cream
-Fraiche, mozzarella, cold smoked cod, chives
+* Hash in boiler with egg, beetroot and pickled cucumber
+* WoldwideAlbodigas-meatballs in a rich tomato and chili sauce with
+Vegetable rice
+* Primörrisotto with baked tomato, roasted chickpeas and Grana Padano
+* Pizza: Tomato sauce, cheddar, jalapeno, pickled onion, mince
 ### 28 Cafe Jetty
-* Cooked salted brisket with boiled potatoes and sweet tart dillcréme
+* Småland isterband with boiled potatoes, parsley sauce, beets &
+Dijon
 ### 29 Finn Inn
 * Marinated pork fillet with potato-& vegetable pie
 * x
 * Pasta salad with beetroot, chevré & mustard dressing (LF)
 * Marinated oyster mushrooms, roasted almond & Potato-& Vegetable pie
 ### 30 Highlight
-* Fried isterband with stewed potatoes, beetroots and mustard.
-* Fish au gratin with shrimp and dill, gratinated mashed potatoes, green cooked
-Peas.
+* —
 ### 31 Ideon Delta
-* Danish dime with fried egg, onion and gravy, and fried potatoes and
-Pickles
-* Pizza with artichokes artichoke heart, paprika and olives and
-Slaw
+* Lemon baked fish fillet with fänkålsslow and cumin yoghurt and
+Couscous
+* Rich Högrevsgryta with root vegetables and basil and boiled potatoes
+* Falafel with curry rice and aioli
 ## [32] Ideon Edison
-* Baked sweet potato with bönröra & Nachos
-* Patties with Lovage, Vinbärsgräddsås & boiled potatoes
-* Chicken, Herb mules, salsaverde & roasted potatoes
+* Pasta with Svamppesto, roasted celery & hazelnut
+* Herb fish with shellfish sauce, chives & boiled potatoes
+* BIBIMBAP on Chuck, egg 63, pickled cucumber & fried rice
 ## [33] Magnus Kitchen
-* Angus Cheese burger with two dressings.
-* Weekly: Wrap with shredded steak, kimchi pickled cabbage and
-wasabimajonäs.
+* Kanelstekt pork side with potatoes, gravy and apple chutney.
+* Weekly: Chili con carne with rice, nachos and soured cream.
 ## [34] Medicon Village
-* Wallenberg on Kalvfärs with browned butter, peas and mashed potatoes
-* Noodle wok with Tzai, paprika, leek, basil and soy
-* Osso Bocco of pork loin with herb roasteded potatoes, tomato sauce and roasted
-Lemon
+* Fläskfärslimpa of Linderödsgris, pickled cucumbers, lingonberries and
+Boiled potatoes
+* Ale (Persian stew) with chickpeas, onion, tomato, saffron, kaffir and
+Bulgur
+* Yoghurtmarinerat Swedish chicken thighs (boneless) with cucumber,
+Baked cherry tomatoes and roasted potatoes
 * Featured salad with main accessories (meat, fish or shellfish)
 ## [35] Paolo's
-* PASTA: VELUTATA DI SALMONe FUMICIATO (cold smoked salmon, cream)
-* PASTA: CREMA DI PEPERONI (tomato, paprika, herbs, cream)
-* PIZZAS: CALABRESE | PARMA | Primavera
+* No Menu Week 24
 ## [36] Scotland Yard
-* Vegetarian spring rolls with sweetened soy sauce and jasmine rice
-* Paella with salmon, shrimp, saffron and mussels with citroncremé
-* Lamb patties with chevré and Päronspread, Balsamicosky,
-Whale nut Salad
-* Greek bond Soup
+* Vegetable stew with wheat salad and roasted nuts
+* Färsbullar with cheddar, chili and parsley with creamed cabbage and
+Roasted potatoes
+* Chinese pork in sweet sour sauce, bamboo and sprouts with jasmine rice and
+Tubers
+* White asparagus soup
 
 # Thursday
 
 ## [37] Anna's Kitchen
-CLOSED!
+* Bacon meatloaf on Scanian mince served with butter fried
+Cabbage, baked parsley root, lingonberries, cream sauce and potatispurė
 ## [38] Appetite
 *
 ## [39] Bricks Eatery
-* Thursday is the restaurant closed! Thursday the restaurant is closed!
+* Daily catch with shellfish sauce and salad of green peas and asparagus
+* Lasagna with tomato salad and roasted seeds
+* Chili with black beans, baked egg and chipotle
+* Pizza: Tomato sauce, cheddar, jalapeno, pickled onion, mince
 ## [40] Cafe Jetty
-* On the occasion of Sweden's National day and the Swedish flag
-We are now closed.
+* Fried chicken breast with bulgur, tomato-bean salsa & coriander
 ## [41] Finn Inn
 * CLOSED
 * x
 * x
 * x
 ## [42] Highlight
-*
-## [43] Ideon Delta
-* CLOSED
-## [44] Ideon Edison
-* 6e & 7th June We are closed, welcome again Monday 10th of June
-## [45] Magnus Kitchen
-* SWEDISH NATIONAL DAY CLOSED.
-* Weekly: Wrap with shredded steak, kimchi pickled cabbage and
-wasabimajonäs.
-## [46] Medicon Village
-*
-## [47] Paolo's
-* CLOSED
-## [48] Scotland Yard
 * —
+## [43] Ideon Delta
+* Goulash soup with sour cream. Pancakes and cream and jam
+* Färslimpa with tomato sauce, haricots vert and grill potatoes
+* Champinjonsoppa
+## [44] Ideon Edison
+* Dal-Indian lentil stew with spinach & coconut milk
+* Veal in dill with carrot & boiled potatoes
+* Burger on Lamb & pork with Greek bond salad on olives,
+red onion, tomato and fetaostyoghurt
+## [45] Magnus Kitchen
+* Kalvbiff Provencal (burger) with parmesankryddat mashed potatoes and
+Tomatiserad cream sauce.
+* Weekly: Chili con carne with rice, nachos and soured cream.
+## [46] Medicon Village
+* Baked MSC Certified Cape hake with rice, saffron, dill,
+Edamame beans and cucumber/tomato salad
+* Indian stew with sweet potatoes, cauliflower and couscous
+* Pasta carbonara (with bacon, onion and black pepper) with baked egg,
+Rocket and Parmesan cheese
+* Today's salad with main accessories (meat, fish or shellfish
+## [47] Paolo's
+* No Menu Week 24
+## [48] Scotland Yard
+* Vegetarian pie with sellerikräm and root vegetable salad
+* Chimichurrimarinerad Cutlet and Nypotatissallad with Pakchoy,
+Spring onion and pesto
+* Pankobakad cod with chili and lime yoghurt and basmati rice and
+Broccoli
+* Noodle with ginger and mushrooms
 
 # Friday
 
 ## [49] Anna's Kitchen
-* Sloppy Joe burger served in freshly baked brioche bun with lettuce,
-Pickled onions, fresh jalapeno, cheddar cheese, roasted majskräm and
-Potatoes
+* Roasted duck breast served with baked rhubarb, salsify,
+Rosėsallad, Syrėnsirap, Sky and Pommes Anna
 ## [50] Appetite
 *
 ## [51] Bricks Eatery
-* Loin with ramslökskräm, pickled onion and carrot Pork with Ramson
-cream, pickled onion and carrot
-* Fishcakes with Chilimajjo and Sesamrostad potato Fishcakes with
-Chilimajo and sesame roasted potatoes
-* Stuffed pasta with browned butter, sage and pumpapuré stuffed pasta with
-Brown butter, sage and pumpkin puree
+Mexico! Taco Buffet! Different kinds of bread, Molekyckling, Chilirostad
+Pork, salsa, avocado, more salsa, different kinds of vegetables and
+Of course vegetarian alternatives to the meat.
 ## [52] Cafe Jetty
-* Also closed today on the Swedish flag's whit.
+* Roasted pork fillet with roasted potatoes and pepper sauce
 ## [53] Finn Inn
 * CLOSED
 * x
 * x
 ## [54] Highlight
-* Fried breaded torskfile with skarpsås, boiled potatoes.
-* Fried spicy sausages with senapsrelish, potatoes.
-## [55] Ideon Delta
-* CLOSED
-## [56] Ideon Edison
-* TODAY WE ARE CLOSED AND RESTING US! WELCOME BACK ON MONDAY.
-## [57] Magnus Kitchen
-Closed.
-* Weekly: Wrap with shredded steak, kimchi pickled cabbage and
-wasabimajonäs.
-## [58] Medicon Village
-*
-## [59] Paolo's
-* PASTA: SALSICCIA AL SUGO (tomato, white wine, SALSICCIA)
-* PASTA: VELLUTATA DI FUNGHI (mushrooms, cream, herbs)
-* PIZZAS: FUNGHI E COPPA | PANCETTA | CAPRINHA
-## [60] Scotland Yard
 * —
-Generated at 2019-06-04 16:23:33 by Cotopaxi
+## [55] Ideon Delta
+* Pork fillet in lemon and tarragon sauce with purjolökspotatis
+* Fried fiskfile with sauce verte, dilled carrot and boiled potatoes
+* Baked potatoes with roasted peppers, olive and fetaostkräm
+## [56] Ideon Edison
+* Kikärtsfylld eggplant with bulgur, olive, Almond & Myntavinaigrette
+* Biff Lindström with capers, herbbutter & potatoes
+* Grilled Karre with bea & roasted root vegetables
+## [57] Magnus Kitchen
+* Ugnsgrillad Brisket (type roast beef) with potato salad on cremè
+Fraiche and mango/örtsalsa.
+* Weekly: Chili con carne with rice, nachos and soured cream.
+## [58] Medicon Village
+* Persian chicken dish (of Swedish chicken) with roasted tomato,
+Onion salad and rice
+* Spanish tortilla with roasted broccoli, olives, sun-dried tomato and
+Onion
+* Pestosmaksatt Burger (pork/ox) with balsamic-marinated tomatoes
+and roasted potatoes
+* Today's salad with main accessories (meat, fish or shellfish
+## [59] Paolo's
+* No Menu Week 24
+## [60] Scotland Yard
+* Majsbiff with parmesan cheese and chili and bulgur salad with spring onion
+* Korean BBQ Karre, smoky glaze on apple, ginger, sesame and
+Oyster mushrooms
+* Mexican Nötfärsgratäng with nachos and guacamole
+* Champinjonsoppa with garlic and thyme
+Generated at 2019-06-10 10:00:01 by Cotopaxi
 ## Reference 
 This page was generated by using the following site : http://mudhead.se/lt.html
-... 1906090848
+... 1906100848
