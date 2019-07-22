@@ -1,37 +1,38 @@
-                      Meny vecka 29 (2019-07-15 — 07-19)
+                      Meny vecka 30 (2019-07-22 — 07-26)
 
    I heart bacon
 
 Måndag
 
    [1]Annas Kök
-     * Grillmåndag! 129:- Kycklingklubbor, nattbakad fläskkarre och korvar
-       från vår kolgrill serveras med bbq sås, krämig mango-chutneysås
-       klyftpotatis, melon och fetaostsallad med mynta, grillade
-       champinjoner och sommarsallad
+     * Grillmåndag! 129:- Nattbakad oxbringa, kamben och färsk korv från
+       vår kolgrill serveras med rostad sötpotatis, bön och majssallad,
+       grönsallad, pickles, barbequesås och cheddardipp
 
        [2]Aptiten
      *
 
-    [3]Bricks Eatery
-     * Restaurangen är stängd p.g.a servicearbete
+   [3]Bricks Eatery
+     * Stekt sill med potatismos, rårörda lingon och skirat smör
+     * Palak paneer med nötkött ost, tomat och koriander
+     * Palak paneer med ost, tomat och koriander
 
      [4]Cafe Bryggan
-     * Ingen meny vecka 29
+     * Ingen meny vecka 30
 
        [5]Finn Inn
-     * Ingen meny vecka 29
+     * Ingen meny vecka 30
 
      [6]Höjdpunkten
-     * Köttfärslimpa med rosépeppar sås ,potatis och lingonsylt
-     * Kycklinggryta med soltorkad tomat, serveras med ris
+     * —
 
      [7]Ideon Delta
      * SEMESTER STÄNGT HELA VECKAN
 
-     [8]Ideon Edison
-     * Frittata med säsongens gröna, keso & basilika
-     * Karre med ugnsbakad rödlök & rostad paprikasås
+   [8]Ideon Edison
+     * Indisk linsgryta med kikärter, blomkål & spenat
+     * Panerad stekt flundra med remoulade, kokt potatis, dill & citron
+     * Chili på högrev med ris, bönor, nachos, koriander
 
      [9]Kryddhyllan
      * Helstekt fläskkotlett med champinjonsås och råstekt potatis
@@ -45,40 +46,43 @@ Måndag
      * —
 
        [12]Paolos
-     * Ingen meny vecka 29
+     * Ingen meny vecka 30
 
     [13]Scotland Yard
      * —
 
 Tisdag
 
-      [14]Annas Kök
-     * Kålpudding på svensk färs serveras med färsk vitkål, savojkål,
-       krispig grönkål, rårörda lingon, gräddsås, kokt potatis
+   [14]Annas Kök
+     * Steamed buns fyllda med "pulled chicken" chilimajonnäs, böngroddar,
+       picklad morot, kinakål, rostade sesamfrön, ugnsbakad pak choi och
+       koriander
 
        [15]Aptiten
      *
 
-    [16]Bricks Eatery
-     * Restaurangen är stängd p.g.a servicearbete
+   [16]Bricks Eatery
+     * Kycklinglårfilé med timjansky, rotfrukter och pressgurka
+     * Bakad torsk med chorizokrisp, tomatsås, ört och fänkålssallad
+     * Morot och kikärtsbiff med tomatsås, ört och fänkålssallad
 
     [17]Cafe Bryggan
-     * Ingen meny vecka 29
+     * Ingen meny vecka 30
 
       [18]Finn Inn
-     * Ingen meny vecka 29
+     * Ingen meny vecka 30
 
      [19]Höjdpunkten
-     * Pocherad sejfilé med rödbetor och kapris, potatismos
-     * Dillkött med kokt potatis och saltgurka
+     * Färsbiff med tomatsås, potatis eller ris.
+     * Pocherad sejfilé med skånsk senapssås.
 
      [20]Ideon Delta
      *
 
    [21]Ideon Edison
-     * Chilirostade morötter & blomkål med hummus på röda linser,
-       tortillabröd & yoghurt
-     * Rosastekt ytterlår med råstekt potatis & dijoncreme
+     * Tortellini ricotta/spenat med svamp, kål & rostad vitlök
+     * Rökig oxfärslimpa med cheddar, bbqsås, zucchini & klyftpotatis
+     * Karré med ingefära & soya serveras med ris
 
      [22]Kryddhyllan
      * Stekt panerad rödspätta med remouladsås
@@ -92,7 +96,7 @@ Tisdag
      * —
 
        [25]Paolos
-     * Ingen meny vecka 29
+     * Ingen meny vecka 30
 
     [26]Scotland Yard
      * —
@@ -100,21 +104,21 @@ Tisdag
 Onsdag
 
       [27]Annas Kök
-     * Fiskgryta med lax, torsk, blåmusslor och handskalade räkor serveras
-       med krämig skaldjurssås, fänkål, bakad tomat, dill och färskpotatis
+     * Panerad och friterad sejfilé serveras med krondillspicklad gurka,
+       sockerärtor, tartarsås, grillad citron och kokt färskpotatis
 
        [28]Aptiten
      *
 
     [29]Bricks Eatery
-     * Kroppkakor med skirat smör, lingon och vaxbönor
-     * WoldwideIndisk gryta med oxe och kikärtor alt Indisk grönsakscurry
+     * Vegetarisk lasagne med babyspenat, rostade frö och citronkräm
+     * WoldwideSpicy beef med glasnudelsallad och teriyakisås
 
     [30]Cafe Bryggan
-     * Ingen meny vecka 29
+     * Ingen meny vecka 30
 
       [31]Finn Inn
-     * Ingen meny vecka 29
+     * Ingen meny vecka 30
 
      [32]Höjdpunkten
      *
@@ -122,9 +126,10 @@ Onsdag
      [33]Ideon Delta
      *
 
-    [34]Ideon Edison
-     * Bönchilli med syltad rödlök & yoghurt
-     * Kycklingsteak med mangosalsa, koriander & ris
+   [34]Ideon Edison
+     * Honungsbakade betor med getost & linssallad
+     * Nattabakad fläsksida med kummin, morotscreme & kokt amandine
+     * Kycklinglår med rökt paprika, bakad tomat & oregano
 
      [35]Kryddhyllan
      * Baconlindad kycklingfile med bearnaisesås
@@ -138,42 +143,43 @@ Onsdag
      * —
 
        [38]Paolos
-     * Ingen meny vecka 29
+     * Ingen meny vecka 30
 
     [39]Scotland Yard
      * —
 
 Torsdag
 
-      [40]Annas Kök
-     * Ugnsbakad kycklinglårfilé med sås på kokosmjölk, citrongräs och
-       ingefära serveras med morot, pak choi vårlök och shanxi nudlar
+   [40]Annas Kök
+     * Färsbiff på skånskt vildsvin serveras med lök glacerad med öl från
+       Lundabryggeriet, bakad persiljerot, svartvinbärsgelé, gräddsås och
+       potatispuré
 
        [41]Aptiten
      *
 
-   [42]Bricks Eatery
-     * Stekt panerad flundra med remouladsås, dill och citron
-     * Kyckling med röd thaicurry och örter alt vegetarisk röd thaicurry
-       (tofu)
+    [42]Bricks Eatery
+     * Färslimpa med sommarkål, gräddsås och rostad potatis
+     * Indisk daal med gurkyoghurt, naanbröd och koriander
 
     [43]Cafe Bryggan
-     * Ingen meny vecka 29
+     * Ingen meny vecka 30
 
       [44]Finn Inn
-     * Ingen meny vecka 29
+     * Ingen meny vecka 30
 
    [45]Höjdpunkten
-     * Ärtsoppa med fläsklägg och/eller fläskkorv, pannkakor med sylt och
-       vispad grädde
-     * Helstekt fläskkarré med plommonsås, potatis och äppelmos
+     * Ärtsoppa med fläsklägg och/eller fläskkorv. Pannkakor, sylt och
+       vispad grädde.
+     * Honungsgriljerade revben med skysås samt äppelmos.
 
      [46]Ideon Delta
      *
 
-    [47]Ideon Edison
-     * Tortellini med ädelost, broccoli & spenat
-     * Panerad stekt fisk med citron & dillmajo samt kokt potatis
+   [47]Ideon Edison
+     * Broccoligratäng med purjolök, ädelost, små tomater & matvete
+     * Färslimpa med libbsticka, bakad morot, gräddsås och kokt potatis
+     * Indisk biffgryta med vitlök, cocos, lime, pakchoi & ris
 
      [48]Kryddhyllan
      * Fiskgratäng med kokt potatis
@@ -187,61 +193,62 @@ Torsdag
      * —
 
        [51]Paolos
-     * Ingen meny vecka 29
+     * Ingen meny vecka 30
 
     [52]Scotland Yard
      * —
 
 Fredag
 
-   [53]Annas Kök
-     * Nattbakad rostbiff av svensk fransyska serveras i tunna skivor med
-       ljummen potatissallad, spenat, rädisor, picklade senapsfrön,
-       friterad lök och rostad currymajonnäs
+      [53]Annas Kök
+     * Kolgrillad flankstek med färsk majs, rostad majskräm, spetskål,
+       chimichurri, rödvinssky och potatisgratäng
 
        [54]Aptiten
      *
 
    [55]Bricks Eatery
-     * Kryddstekt karré med senapskräm och rostade morötter
-     * Fylld pasta med krämig tomat och baconsås alt tomat och grönsaksås
-       samt lagrad ost
+     * Ugnspannkaka med bakad rödlök, stekt fläsk och krasse
+     * Nattbakad kalkon med lökkräm, bakad rödlök, krasse och rödvinssås
+     * Ugnspannkaka med bakat äpple, rödlök och krasse
 
     [56]Cafe Bryggan
-     * Ingen meny vecka 29
+     * Ingen meny vecka 30
 
       [57]Finn Inn
-     * Ingen meny vecka 29
+     * Ingen meny vecka 30
 
-     [58]Höjdpunkten
-     * Porterstek med portersås, pressgurka och svart vinbärsgelé
-     * Pytt bellman, serveras med rödbetor och rå äggula.
+   [58]Höjdpunkten
+     * Fiskgratäng med gratinerad potatismos, räkor och dill, gröna kokta
+       ärtor.
+     * Biffgryta med svamp och bacon, serveras med ris.
 
      [59]Ideon Delta
      *
 
-    [60]Ideon Edison
-     * Indisk Daal med naanbröd & yoghurt
-     * Pulled pork med chipotle, rostad potatis & vitlökscreme
+   [60]Ideon Edison
+     * Pasta med tomatpesto, syltad zucchini & fårost
+     * Kalkonlår med rotselleripuré, salvia & rostade rotfrukter
+     * Pasta Carbonara med broccoli, granapadana & rostad svartpeppar
 
      [61]Kryddhyllan
      * Fläskfile med rödvinsås samt haricorverts
      * Sesamstekt grönsaksbiff med ärthummus
 
    [62]Magnus Kitchen
-     * Kommer inom kort.
+     * Pannbiff med stekt lök, potatis och gräddsås.
      * Veckans: Jag har tagit semester.
 
    [63]Medicon Village
      * —
 
        [64]Paolos
-     * Ingen meny vecka 29
+     * Ingen meny vecka 30
 
     [65]Scotland Yard
      * —
 
-   Generated at 2019-07-15 10:00:01 by cotopaxi
+   Generated at 2019-07-22 10:00:01 by cotopaxi
    [66]Valid XHTML 1.1 [67]Valid CSS
 
 References
