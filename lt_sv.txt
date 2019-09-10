@@ -55,7 +55,7 @@ Måndag
      * Nudelwok med Tzai, vitkål, broccoli, chili, soja och lime
      * Gremolata-bakad (citron, persilja, vitlök) svensk benfri
        fläskkotlettrad med rostad blomkål, rödvinssky och rostad potatis
-     * Dagens sallad med huvudtillbehör (Kött, fisk eller skaldjur)
+     * Kycklingsallad med soja, karriander och lime
 
        [12]Paolos
      * Ingen meny på länk (60)
@@ -195,8 +195,14 @@ Onsdag
        [38]Paolos
      * Ingen meny på länk (60)
 
-    [39]Scotland Yard
-     *
+   [39]Scotland Yard
+     * Idag bjuder vi alla gäster på en härlig kaneldoftande äpplekaka med
+       vaniljvisp!
+     * Heta grönsak med tofu, chili, pakchoy och blomkål och nudlar
+     * Färsbiff med rostad rödbeta, kapris och sidfläsk, broccoli och
+       stekt potatis
+     * Wokade nudlar med cashewnötter, strimlad kyckling och teriyaki
+     * Grön sparrissoppa
 
 Torsdag
 
@@ -339,7 +345,7 @@ Fredag
      * Lammfärsjärpar med tzatziki, jasminris och örtslungade morötter
      * Paprikasoppa med rosmarin
 
-   Generated at 2019-09-09 10:00:01 by cotopaxi
+   Generated at 2019-09-09 13:26:11 by cotopaxi
    [66]Valid XHTML 1.1 [67]Valid CSS
 
 References

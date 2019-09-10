@@ -51,7 +51,7 @@ Croutons and cress
 * Noodle wok with Tzai, cabbage, broccoli, chili, soy and lime
 * Gremolata-baked (lemon, parsley, garlic) Swedish bonfree
 Pork chop with roasted cauliflower, red wine gravy and roasted potatoes
-* Todays salad with main accessories (meat, fish or shellfish)
+* Chicken salad with soy, karriander and lime
 ### 12 Paolo's
 * No menu on link (60)
 ### 13 Scotland Yard
@@ -183,7 +183,13 @@ Tomato sauce and garlic-baked beans
 ## [38] Paolo's
 * No menu on link (60)
 ## [39] Scotland Yard
-*
+* Today we invite all guests to a lovely cinnamon scented apple cake with
+Vanilla!
+* Hot vegetable with tofu, chili, gravy and cauliflower and noodles
+* Burger with roasted beetroot, capers and bacon, broccoli and
+Fried potatoes
+* Stir-fried noodles with cashew nuts, shredded chicken and teriyaki
+* Green asparagus Soup
 
 # Thursday
 
@@ -348,4 +354,4 @@ fries
 frites, potatis, småfiskar, pommes
 * Lamb minty with tzatziki, jasmine rice and herb-slung carrots
 * Paprika soup with rosemary
-Generated at 2019-09-09 10:00:01 by Cotopaxi
+Generated at 2019-09-09 13:26:11 by Cotopaxi
