@@ -121,8 +121,7 @@ Onion vinaigrette
 Pickled Custard gratin with potatoes, tofu, maize,
 Chili and beans and garlic sauce
 * Salmon pudding with lemon yoghurt and pickled vegetables
-* Paprika and garlic wolveres with root vegetable zatziki, stir-fried vegetables
-and baked potatoes
+* Chili con carne with jasmine rice and stir-fried vegetables
 * Cabbage soup with root vegetables
 
 # Wednesday
@@ -328,4 +327,4 @@ Lemonette and boiled potatoes
 Bondböns-Guacamole
 * Paella with chicken, spicy sausage and aioli
 * Soup with Asian Flavors
-Generated at 2019-09-23 10:00:01 by Cotopaxi
+Generated at 2019-09-24 11:58:22 by Cotopaxi

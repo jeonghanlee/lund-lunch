@@ -134,8 +134,7 @@ Tisdag
        syrad vaniljgräddeVegetarisk gratäng med potatis, tofu , majs,
        chili och bönor samt vitlökssås
      * Laxpudding med citronyoghurt och picklade grönsaker
-     * Paprika och vitlöksjärpar med rotfruktstzatziki, wokade grönsaker
-       och ugnsbakad potatis
+     * Chili con carne med jasminris och wokade grönsaker
      * Vitkålssoppa med rotfrukter
 
 Onsdag
@@ -339,7 +338,7 @@ Fredag
      * Paella med kyckling, stark korv och aioli
      * Soppa med asiatiska smaker
 
-   Generated at 2019-09-23 10:00:01 by cotopaxi
+   Generated at 2019-09-24 11:58:22 by cotopaxi
    [66]Valid XHTML 1.1 [67]Valid CSS
 
 References
