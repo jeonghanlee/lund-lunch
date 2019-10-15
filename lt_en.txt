@@ -29,7 +29,8 @@ Jalapenocrème (GF)
 GF LF
 * Hot Quorn stew with roasted root vegetables & jalapenocrème (GF)
 ### 7 Highlight
-* —
+* Beef steak with onion gravy, mashed potatoes and lingonberry jam.  
+* Chicken stew with sun-dried tomato, served with rice.
 ### 8 Ideon Delta
 * Bolognese sauce with pasta and grated cheese
 * Steamed fish fillet with chopped egg, grated horseradish and browned butter
@@ -86,7 +87,8 @@ Mozzarella, NDuja, bell peppers
 tomato, roasted onion & remoulade (LF)
 * Pulled peas with Apple-& Lökchutney & roasted potatoes
 ### 18 Highlight
-* —
+* Poached flundrafile with cape rice sauce, boiled potatoes.
+* Gratinated kassler with mushroom sauce, served with rice.
 ### 19 Ideon Delta
 * Meatballs with gravy, mashed potatoes and lingonberries
 * Ginger and Ajvar spiced chicken fillet with creamy tomato sauce and rice
@@ -165,7 +167,8 @@ frites, potatis, småfiskar, pommes
 Chili dressing
 * Stroganoff with rice & aioli
 ### 29 Highlight
-* —
+* Spicy sausage stew with paprika, served with rice.
+* Pytt Bellman with beetroot and raw egg yolk.
 ### 30 Ideon Delta
 * Skånsk beef stew with beetroot and boiled potatoes
 * Dijon gratinated fish fillet served with bulgur salad
@@ -223,7 +226,9 @@ Senapsvinaigrette (LF)
 * Burger with béarnaise crème, roasted red cabbage &
 Parsley Potatoes (GF) (LF)
 ## [40] Highlight
-* —
+* Pea soup with pork and/or pork sausage. Pancakes, jam and
+Whipped cream.
+* Honey-grilled ribs with gravy, potatoes and applesauce.
 ## [41] Ideon Delta
 * Pea soup with pork, pancakes, jam and cream
 * Cabbage pudding with cream sauce, lingonberries and boiled potatoes
@@ -295,7 +300,8 @@ sauce, mozzarella, bresaola, confit tomato
 LF GF
 * Seven grain crispy tender with roasted potatoes & salsa
 ## [51] Highlight
-* —
+* Bacon wrapped chicken fillet with crème fraiche served with rice.
+* Pasta with cheese and ham sauce and broccoli.
 ## [52] Ideon Delta
 * Boiled fish fillet with mustard sauce. Carrots and boiled potatoes
 * Roast loin with a sauce of coriander, root vegetables and dill and
@@ -325,4 +331,4 @@ With potato cake, paprika, onion, olives and tomato sauce
 Boiled potatoes
 * Spicy burger with barbeque sauce, roasted parsnip and
 Potato cake with cheddar
-Generated at 2019-10-14 10:00:01 by Cotopaxi
+Generated at 2019-10-14 13:57:04 by Cotopaxi

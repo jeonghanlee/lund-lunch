@@ -27,7 +27,8 @@ Måndag
      * Het quorngryta med ugnsstekta rotfrukter & jalapenocrème(GF)
 
      [7]Höjdpunkten
-     * —
+     * Pannbiff med löksky,potatismos och lingonsylt.  
+     * Kycklinggryta med soltorkad tomat, serveras med ris.
 
    [8]Ideon Delta
      * Köttfärssås med pasta och riven ost
@@ -86,7 +87,8 @@ Tisdag
      * Pulled peas med äpple-& lökchutney & rostad potatis
 
      [18]Höjdpunkten
-     * —
+     * Pocherad flundrafile med kaprissås,kokt potatis.
+     * Ugnsgratinerad kassler med champinjonsås,serveras med ris.
 
    [19]Ideon Delta
      * Köttbullar med skysås, potatismos och lingon
@@ -151,7 +153,8 @@ Onsdag
      * Stroganoff med ris & aioli
 
      [29]Höjdpunkten
-     * —
+     * Kryddig korvgryta med paprika,serveras med ris.
+     * Pytt Bellman med rödbetor och rå äggula.
 
    [30]Ideon Delta
      * Skånsk kalops med rödbetor och kokt potatis
@@ -213,8 +216,10 @@ Torsdag
      * Färsbiff med bearnaisecrème, rostad rödkål &
        persiljepotatis(GF)(LF)
 
-     [40]Höjdpunkten
-     * —
+   [40]Höjdpunkten
+     * Ärtsoppa med fläsklägg och/eller fläskkorv. Pannkakor, sylt och
+       vispad grädde.
+     * Honungsgriljerade revben med skysås,potatis samt äppelmos.
 
    [41]Ideon Delta
      * Ärtsoppa med fläsk, pannkakor, sylt och grädde
@@ -276,7 +281,8 @@ Fredag
      * Seven grain crispy tender med rostad potatis & salsa
 
      [51]Höjdpunkten
-     * —
+     * Baconlindad kycklingfile med creme fraiche serveras med ris.
+     * Pasta med ost och skinksås och broccoli.
 
    [52]Ideon Delta
      * Kokt fiskfilé med senapssås. morötter och kokt potatis
@@ -313,7 +319,7 @@ Fredag
      * Kryddig färsbiff med barbequesås, rostad palsternacka och
        potatiskaka med cheddar
 
-   Generated at 2019-10-14 10:00:01 by cotopaxi
+   Generated at 2019-10-14 13:57:04 by cotopaxi
    [58]Valid XHTML 1.1 [59]Valid CSS
 
 References
