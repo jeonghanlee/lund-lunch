@@ -21,9 +21,9 @@ Måndag
        rucola
 
    [6]Finn Inn
-     * Myllymäkis chili con carne med ris & gräddfil
+     * Myllymäkis chili con carne med ris & gräddfil (GF)
      * Salami & Brie med gurka, tomat, paprika & vinaigrette (GF)
-     * Chili sin carne med ris & gräddfil
+     * Chili sin carne med ris & gräddfil(GF)
 
      [7]Höjdpunkten
      * Biff stroganoff,serveras med ris och creme fraiche.  
@@ -55,8 +55,13 @@ Måndag
        vitvinssås och kokt potatis
      * Dagens sallad med huvudtillbehör (Kött, fisk eller skaldjur)
 
-    [13]Scotland Yard
-     * —
+   [13]Scotland Yard
+     * Vegansk trädgårdsmästargryta och stekt matvete med grönsaker och
+       torkad frukt
+     * Ångad flundra med pepparrotssås, rostad gul morot, krispig fänkål
+       och potatispuré
+     * Kyckling Vindaloo med dirty rice, mango, koriander och wokgrönsaker
+     * Potatis och purjolökssoppa
 
 Tisdag
 
@@ -111,8 +116,11 @@ Tisdag
        potatis
      * Dagens sallad med huvudtillbehör (Kött, fisk eller skaldjur)
 
-    [24]Scotland Yard
-     * —
+   [24]Scotland Yard
+     * Cous-couspytt med bönor, soja, strimlad grönsaker och rödlökskeso
+     * Frasig panerad sej med tartarsås, dillsvängd potatis och citron
+     * Lasagne och rostad tomatsallad med ruccola och pumpakärnor
+     * Currysoppa med rotfrukter och gräslök
 
 Onsdag
 
@@ -134,8 +142,8 @@ Onsdag
      * Skånsk kalops med inlagda rödbetor och kokt potatis
 
    [28]Finn Inn
-     * Sprödbakad torskfilé med remoulad
-     * Pytt i panna med stekt ägg & rödbetor
+     * Sprödbakad torskfilé med remoulad (LF)
+     * Pytt i panna med stekt ägg & rödbetor(LF)
      * Kycklingsallad med bacon, sockerärtor, tomat & vitlöksdressing
        (GF)(LF)
      * Moussaka med tzatziki
@@ -171,8 +179,11 @@ Onsdag
        klyftpotatis
      * Dagens sallad med huvudtillbehör (Kött, fisk eller skaldjur)
 
-    [35]Scotland Yard
-     * —
+   [35]Scotland Yard
+     * Vegetariska asiatiska majsplättar med nudelsallad och ingefärscremé
+     * Skånsk kalops på högrev och morot med egenkokta rödbetor , potatis
+     * Champinjongratinerad köttfärslimpa med gele och rostad mixpotatis
+     * Broccoli och spenatsoppa
 
 Torsdag
 
@@ -195,7 +206,7 @@ Torsdag
      * Kungsfisk med tomat-citrus-kokos, potatisstomp och rostad mandel
 
    [39]Finn Inn
-     * Oxrullader med gräddsås, gelé & persiljepotatis
+     * Oxrullader med gräddsås, gelé & persiljepotatis (GF)
      * Fisksoppa med aioli Äpple-& rabarberpaj med vaniljsås
      * Räksallad med couscous, ägg, gurka, tomat & Rhode Island (LF)
      * Broccoli-& ostpaj med bulgurpytt
@@ -230,8 +241,13 @@ Torsdag
        basmatiris
      * Dagens sallad med huvudtillbehör (Kött, fisk eller skaldjur)
 
-    [46]Scotland Yard
-     * —
+   [46]Scotland Yard
+     * Indisk vegansk currygryta med basmatiris och mangochutneyyoghurt
+     * Ärtsoppa med svenskt rimmat fläsk, Pannkakor med restaurangens
+       tillbehör
+     * Kalvfärsbiff med pressgurka, rårörda lingon, äpplecidersås och
+       rostad broccoli
+     * Kålsoppa med fänkål och dillfrö
 
 Fredag
 
@@ -253,9 +269,9 @@ Fredag
 
    [50]Finn Inn
      * Lågtempererad kalvrostbiffskappa med pepparsås, picklad rödlök &
-       klyftpotatis
+       klyftpotatis (GF)
      * Potatissallad med kalkon, ärtor, gurka, tomat & senapsdressing (LF)
-     * Indisk linsgryta med ris & mangochuteny
+     * Indisk linsgryta med ris & mangochuteny(GF)
 
      [51]Höjdpunkten
      * Fisk och skalddjurlasagne med vitvinssås.
@@ -285,10 +301,15 @@ Fredag
        persiljevinaigrette och klyftpotatis
      * Dagens sallad med huvudtillbehör (Kött, fisk eller skaldjur)
 
-    [57]Scotland Yard
-     * —
+   [57]Scotland Yard
+     * Falafel med stekt ris, ajvarrelish och persilja
+     * Kycklingtaco med tortillabröd, avokado-citronaioli, tomatsalsa och
+       nachos
+     * Karibisk gryta med skaldjur, paprika, ananas och kokos samt
+       basmatiris
+     * Ungersk gulaschsoppa
 
-   Generated at 2019-10-28 10:00:01 by cotopaxi
+   Generated at 2019-10-29 08:03:06 by cotopaxi
    [58]Valid XHTML 1.1 [59]Valid CSS
 
 References
