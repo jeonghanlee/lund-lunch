@@ -1,4 +1,4 @@
-Enjoy your lunch at Lund : Week 49
+Enjoy your lunch at Lund : Week 50
 ==
 
 [![Build Status](https://travis-ci.org/jeonghanlee/lund-lunch.svg?branch=master)](https://travis-ci.org/jeonghanlee/lund-lunch)
@@ -6,7 +6,7 @@ Enjoy your lunch at Lund : Week 49
 *Life is good, today is your day!*
 
 
-Menu week 49 (2019-12-02 — 12-06) [1]RSS [2]JSON
+Menu week 50 (2019-12-09 — 12-13) [1]RSS [2]JSON
 In heart bacon
 
 # Monday
@@ -19,60 +19,57 @@ måndag, ndag
 Mon
 mån, må, måndag
 ## [3] Anna's Kitchen
-* Garlic roasted corn chicken served with leek puree, baked
-leeks, roasted yellow beets, potato stomp and herb sauce
+* Rooster beef flavored with coriander and lime served with
+chilli-milled sugar peas, marinated bean sprouts, crispy
+oyster skivling, steamed jasmine rice and misomajonnana
 ## [4] Bricks Eatery
-* Indian Monday - Indian Monday Butter Chicken- Chicken Thighs with
-buttery tomato sauce Butter Chicken- Chicken leg with buttery tomato
-Sauce
-noun
-sauce
-sås, såsen, Sauce, köttfärssås, dressing
-* Karré with spicy Vindaloo sauce Pork loin with spicy Vindaloo Sauce
-* Palak Paneer - Spinach Curry with Cheese and Tomato Palak Paneer – Spinach
-curry with cheese and tomato
-* All dishes are served with rice, papadum, raita and chutney All dishes
-are served with rice, papadums, raita and chutney
+* Fully fried chop with baked savoy cabbage and bearnaise Roasted pork loin
+with baked savoy cabbage and bearnaise
+* Indian chicken curry with lentils and spinach Indian chicken curry
+with lentils and spinach
+* Fried rice with tofu, omelette, cabbage, mushroom (V) Fried rice with tofu,
+omelet, cabbage, mushrooms
 ## [5] Cafe Bridge
-* Pasta penne with smoked turkey and leeks in cheese sauce
+* Meatballs with cream sauce, lingonberries and boiled potatoes
 ## [6] Finn Inn
-* Schnitzel (pork) with parsley butter, sky sauce, peas & potato wedges
-* Bean salad with ham, red cabbage, tomato, red onion & vinaigrette (LF)
-* Schnitzel parsley butter, sky sauce, peas & potato wedges
+* Karré of rapeseed pig with cole slaw, BBQ sauce & roasted potatoes (GF)(LF)
+* Shrimp salad with avocado, egg, cucumber, tomato & Rhode Island (GF)(LF)
+* Quorn in BBQ sauce with cole slaw, BBQ sauce & roasted potato GF)(LF)
 ## [7] Highlight
-* Mince steak with dijon sauce, potatoes and lingonberry jam
-* Dill meat, served with potatoes and pickles
+* Scanian kalops with beetroot and boiled potatoes.
+* Brackish falukorv with stewed spinach potatoes.
 ## [8] Ideon Delta
 * —
 ## [9] Ideon Edison
-* Tortellini with ricotta/spinach served with mushrooms & auccola
-* Apple glazed ystad pig with sky & potatoes
-* Chicken sizhuan with hoisin, paprika & rice
+* Cauliflower soup, yellowbeta cress & scones
+* Breaded fried herring with puree, lingonberries & red onions
+* Bimbap with 63degrees eggs, kimchi, chili majo & pickled cucumber
 ## [10] Spice Shelf
-* Mozzarella-filled chicken file wrapped in air-ored ham servers with
-sky sauce
-* Butter fried fish file with skagen mess and potato puree
-* Falafel with Baba Ganoush and rice
+* Greek meatloaf with olive yoghurt
+* Basil baked fish file with boiled potatoes, sugar peas and white wine sauce
+* Ragg doughnuts with fried parsnip slices as well as lingonberry jam and cottage so
 ## [11] Magnus Kitchen
-* Meatloaf with boiled potatoes, cream sauce and lingonberries
+* Chili con carne with rice and pickled cream
 ## [12] Medicon Village
-* Ox brisket with smoked cream sauce, steamed vegetables, boiled potatoes and "Red
-Russian" cabbage
-* Zucchiniplättar with baked bean salad, yellow mustard, tomato and
-Scallions
+* Meatloaf with roasted cabbage, sky sauce, raw stirred lingonberries and boiled
+Potatoes
 noun
-scallions
-salladslöken, salladslök, lök
-* Fully fried, boneless chop row with parsley, green beans, dried
-tomato and roasted potatoes
-* Today's salad with main accessories (Meat, seafood)
+potatoes
+potatis
+fries
+frites, potatis, småfiskar, pommes
+* "Grynotto" on Scanian dawns with Italian Taleggio cheese, pecked
+polkabeta, parmesan cheese and rucola
+* Boeuf bourguignon (French beef stew with red wine, mushrooms, bacon
+and chimes) and potato puree
 ## [13] Scotland Yard
-* Lentil and beancasserole with roasted pumpkinseeds and spaghetti
-with chili
-* Cod fillet with lemonbuttersauce, baked yellow carrots, peapesto and
-potatoepureé
-* Beef Bourgignon with mushrooms, onion and redwine and rootveggies
-* Vegetarian potatoe and couliflowersoup
+* Broccoligratin with sunflowerseeds and bulgursalad with saladonion
+and celery
+* Grilled spicy sausage with shrimpsalad, cucumbermayo and
+potatoepureé, broccoli
+* Chicken Korma with jasminrice and mango with green onion and
+coriander
+* Roasted corn soup
 
 # Tuesday
 
@@ -82,52 +79,53 @@ noun
 
 tisdag, tirsdag
 ## [14] Anna's Kitchen
-* Wolverines on wild boar spheres are served with cooked carrots, raw-touched black
-currants, browned onion puree, cream sauce and boiled potatoes
+* Beer braised Frenchist served with browned Brussels sprouts, pickled cucumber,
+raw-skinned carrot, blackcurrant jelly, boiled potatoes and cream sauce
 ## [15] Bricks Eatery
-* Meatloaf with creamy mushroom sauce, lingonberries and parsley Meatloaf
-with creamy mushroom sauce, lingonberry and parsley
-* Pork side with Chimichurri and sweet potato mash Pork belly with
-Chimichurri and mashed sweet potatoes
-* Deep-fried Aubergine with couscous, chickpeas and yogurt Deep-fried
-eggplant with couscous, chickpeas and yogurt
-* Pizza: Tomato sauce, smoked mozzarella, potatoes, chili oil Tomato sauce,
-smoked mozzarella, potato, chili oil
+* Lamb mince steaks with apple and pickled mustard seed Lamb patties with
+apple and pickled mustard seeds
+* Today's catch with red curry sauce and coconut rice Today's catch with red
+curry sauce and coconut rice
+* Celery steaks with apple, parsley salad and roasted potatoes (V)
+Celery patties with apple, parsley salad and roasted potatoes
+* Pizza: Tomato sauce, mozzarella, wild boar, pickled red cabbage, jalapeños
+Tomato sauce, mozzarella, wild boar, pickled red cabbage, jalapeños
 ## [16] Cafe Bridge
-* Ginger-peppered chopwith curry-sweet potato stomp & sky
+* Poached fillet with tomato-citrus coconut, coriander and potato stomp
 ## [17] Finn Inn
-* Choppe steak Florentine (spinach, bacon, cheese) with ball potatoes
-* Couscoussalld with roast beef, sun-dried tomatoes, cornichons &
-remoulad
-* Gratined mince steak on a bed of leaf spinach with ball potatoes
+* Chili-spiced mince steak (pork/ox) with cucumber yoghurt & potato wedge
+* Lentil salad with hot smoked salmon, sugar peas & horseradish dressing
+Mr President, i would like to thank the rapporteur, Mr President, i would like to thank the rapporteur,
+* Chili-spiced vegfärsbiff with cucumber yoghurt & potato wedges (GF)
 ## [18] Highlight
-* Brown beans with fried pork
-* Fried breaded cod fillet with boiled potatoes and crisp sauce
+* Poached sejfile with sliced butter and grated peparrot,served with
+mashed potatoes.
+* Pytt bellman,served with beetroot and raw egg yolk.
 ## [19] Ideon Delta
 * —
 ## [20] Ideon Edison
-* Daal with red lentils, spinach & chickpeas
-* Danish sailor steak with bay leaves, beer & thyme
-* Fishcakes with green salsa, rice & leaf spinach
+* Halloumi & pumpkin stew with sun-dried tomato & rice
+* Chicken with bulgur, oreganocreme & dried apricots
+* Pork stew Asia with chili, hoisin & rice
 ## [21] Spice Shelf
-* Shredded steak stew with onions, chapinions and peppers served with rice
-* Breaded fish file with chive cream and boiled potatoes
-* Indian lentil stew with roasted broccoli and cauliflower
+* Flying jacob with rice
+* Paella with seafood, chicken and tomato sky
+* Vegetarian paella with quorn and tomato sky
 ## [22] Magnus Kitchen
-* Fried herring with mashed potatoes, sliced butter and lingonberries
+* Butter fried spätta with boiled potatoes and remulade
 ## [23] Medicon Village
-* Fried herring with sliced butter, raw stirred lingonberries and potato puree
-* Pie with potatoes, onions, peppers, arugula crème and lentil salad
-* Thyme-flavored mince steak with beer, onions and broth braised potatoes
-* Today's salad with main accessories (Meat, seafood)
+* MSC certified hake fillet paned in Panko flour
+* Sicilian pizza with tomato, zucchini, onions, olives and Chevré
+* Deep-fried pork side with chilli glazed carrots, sky sauce and
+potato puree
 ## [24] Scotland Yard
-* Vegetable and lentilburger, creamy Mediterranean ratatouille,
-ovenbaked rootveggies
-* Gratinated saith with fennelsauce and potatoepuré and rootveggies
-with dill
-* Chicken Stradivarius with sundried tomatoes, basil, garlic and
-jasminrice - No.
-* Asparagussoup with chive
+* Woked noodles with green cabbage, soy, julienneveggies and
+soy/chilisauce
+* Almondbreaded cod and brown butter with dill, baked carrot and
+potatoepureé with fennel and dill
+* Southafrican beefgratin (Boboti) with apricotrice, yoghurt and
+baked pointcabbage
+* Beetroot soup
 
 # Wednesday
 
@@ -141,57 +139,65 @@ onsdag
 Wed
 ons, onsdag, gift, mon
 ## [25] Anna's Kitchen
-* Seared fresh hake fillet with hand-peeled shrimp, butter-slung
-beans, seafood broth served with potatoes and artichoke puree
+* Bouillabaisse on salmon and sejfilé served with mussels,
+hand-peeled shrimps, white-fried fennel, boiled potatoes and aioli
 ## [26] Bricks Eatery
-* Ox bring from Sjöbo with horseradish sauce and parsley Brisket of beef
-from Sjöbo with horseradish sauce and parsley
-* WoldwideTurkey thighs with red wine, pork and mushroom Turkey with red
-wine, pork and mushrooms
-* Ragg monks with roasted carrots, cottage cheese and lingonberry Potato pancakes
-with roasted carrots, cottage cheese and lingonberries
-* Pizza: Tomato sauce, smoked mozzarella, potatoes, chili oil Tomato sauce,
-smoked mozzarella, potato, chili oil
+* Kalops with carrots and pickled yellow beet Swedish beef stew with
+carrots and pickled yellow beets
+* WoldwideTurkey lasagna with stored cheese and arugula Turkey lasagna
+with cheese and arugula
+* Tariks Falafel with tabbouleh, feta and bread (V) Tariks Falafel with
+tabbouleh, feta and bread
+* Pizza: Tomato sauce, mozzarella, wild boar, pickled red cabbage, jalapeños
+Tomato sauce, mozzarella, wild boar, pickled red cabbage, jalapeños
 ## [27] Cafe Bridge
-* Higher v teriyaki with boiled rice, pickled red onion and peanuts
+* Småland lard ribbons with parsley stewed potatoes, beetroot and mustard
 ## [28] Finn Inn
-* Breaded flounder fillet with crisp sauce & boiled potatoes
-* Fried pork with onion sauce & boiled potatoes (GF)
-* Mozzarella salad with broccoli, cauliflower & lemon dressing (GF)
-* Beetroot steak with roasted kale, sky sauce & boiled potatoes (LF)
+* Herb-baked fillet with shrimp sauce, green pea puree & boiled potatoes
+* Spicy sausage stew with rice & sriracha sauce (GF)
+* Pasta salad with feta cheese, peppers, cucumber, tomato & garlic dressing
+Mr President, i would like to thank the rapporteur,
+noun
+LF
+LF
+LF-A
+LF
+ll
+ll, lla, LF, llning
+* Spicy vegme stew with rice & sriracha sauce (GF)
 ## [29] Highlight
-* Oven gratined cassecles with mushroom sauce, served with rice
-* Salmon mince steak with dill sauce, served with mashed potatoes
+* Boiled rhymed veal brisket with horseradish sauce,served with rotmos.
+* Chicken in tarragon sauce is served with rice.
 ## [30] Ideon Delta
 * —
 ## [31] Ideon Edison
-* Cheese gratined zucchini with saffron rice & tomato sauce
-* Turkey mince steak with potatoes, currant sky & marjoram
-* Spicybeef with noodles, chili/soyamajo & packchoi
+* Falafel on yellow peas with, garlic corn, pickled vegetables & bread
+* Night-baked higher v with truffle corn & roasted potatoes
+* Mince steak with ras el hanout spices & olive
 ## [32] Spice Shelf
-* Steak with fried onion, cream sauce and lingonberry jam
-* Fish skewers with peppers, onions served with pesto cream and dill cooked
+* Schnitzel with anchovies, capers, lemon, green peas and fried
 Potatoes
 noun
 potatoes
 potatis
 fries
 frites, potatis, småfiskar, pommes
-* Beetroot steaks with ruccula, goat's cheese and couscous
+* Poached fish file with lemon sauce and boiled potatoes
+* Cannelloni with ricotta and spinach
 ## [33] Magnus Kitchen
-* Cevapcici (beef beef steak) with potato and ajvarcremè
+* Breaded chicken filè with potatoes and mushroom sauce
 ## [34] Medicon Village
-* Danish flæskesteg with sprød svær og rødkål, sky sauce, apple mos and
-sugar fried ball potatoes
-* Red bean patties with sweet potato salad with white beans and lime yoghurt
-* Baked boneless chicken thighs with ratatouille and potato puree.
-* Today's salad with main accessories (Meat, seafood)
+* Hickory smoked cambone (pork) with smokey BBQ sauce, Coleslaw, soured
+carrots and roasted potatoes
+* Falafel with Libabröd, feta cheese yoghurt and pickled broccoli
+* Chicken with sauce of sun-dried tomato, salami chips and roasted potatoes
 ## [35] Scotland Yard
-* Vegetarian cheesepie with marinated broccoli and dried cabbage
-* Parmesan and chilibreaded fish with tomatoesauce, broccoli and
-dillpotatoes
-* Pork in soy, beansprouts and leek with basmatirice
-* Artichokesoup
+* Garlic and parsley chickpeaburger with yogurt and basmatirice
+* Cheesegratinated saith with fried cabbagecream, crispy cabbage and
+beets
+* Spicy chilicasserole on prime rib with redwine, onion and tomatoe,
+rice and sourcremé
+* Lentilsoup with carrot, chili and coconut
 
 # Thursday
 
@@ -201,62 +207,60 @@ noun
 
 torsdag
 ## [36] Anna's Kitchen
-* Boiled calf in dill sauce served with baked carrots, blanched
-leeks, caramelized lemon and boiled potatoes
+* Meatballs on veal mince with minimozzarella, semi-dried tomato, light
+creamy lemon sauce and potato puree
 ## [37] Bricks Eatery
-* Night-baked pork bog with stewed kale and Bricks Mustard Overnight
-baked pork with creamed kale and Bricks mustard
-* Glass noodle salad with crispy vegetables, chicken, chilli and
-bean sprouts Glass noodle salad with crispy vegetables, chicken,
-chili and bean sprouts
-* Ribollita - Italian soup with black cabbage, white beans and bread
-Ribollita - Italian soup with black cabbage, white beans and bread
-* Pizza: Tomato Sauce, Mozzarella, Pecorino, pancetta Tomato sauce,
-mozzarella, pecorino, pancetta
+* Today's catch with mustard sauce, green peas, crispry rye and dill
+Today's catch with mustard sauce, green peas, crispy rye and dill
+* Pepper fried carré with cognac sauce and haricots verts Pepper roasted
+pork with cognac sauce and green beans
+* Vegetarian Biff Lindström with sky sauce, spice butter and pickles (V)
+Vegetarian Lindström (patties) with gravy sauce, spiced butter and
+salt cucumber
+* Pizza: Fresh cheese, mozzarella, fennel, salmon Crème cheese, mozzarella,
+fennel, salmon
 ## [38] Cafe Bridge
-* Fried chicken breast with choron sauce, rucola and roasted potatoes
+* Rhymed veal brisket with horseradish sauce, parsley and boiled potatoes
 ## [39] Finn Inn
-* Skinknoisette with green pepper sauce & potato wedge
-* Pea soup with shoulder, pancake, jam & cream
-* Noodle salad with chicken, peppers, cucumber, tomato & soy dressing (LF)
-* Minced pepper with green pepper sauce & potato wedge (GF)
+* Fish soup with aioli, apple cake with custard
+* Long-term baked pork side with cider sky & ginger fried red cabbage (GF)(LF)
+* Couscous salad with smoked mackerel, sun-dried tomatoes, peppers,
+spring onions & hot dressing (LF)
+* Prince sausage with root fruit medallions & ginger fried red cabbage
 ## [40] Highlight
 * Pea soup with pork and/or pork sausage. Pancakes with jam and
 whipped cream.
-* Falukorv in oven, served with mashed potatoes
+* Whole fried pork frame with plum sauce, potatoes and applesauce.
 ## [41] Ideon Delta
 * —
 ## [42] Ideon Edison
-* Egg cake with smoked apple & mushrooms
-* Meatballs with cream sauce, potato puree & lingonberries
-* Breaded fried with sweet sour sauce, sesame & spring onions
+* Vegetable pie with cauliflower salad & dijonvinaigrette
+* Pea soup with pancake, jam & cream
+* Breaded Chicken with peanut sauce & rice
 ## [43] Spice Shelf
-* Dill meat with carrots and boiled potatoes
-* Breaded herring with dill butter and potato puree
-* Chickpea pancake with zucchini, eggplant and paprika servers with
-Hummus
-noun
-hummus
-hummus
+* Gulash soup with creme fraich
+* Fried fish file with cold herb sauce and caper sauce
+* Vegetarian gulash soup with creme fraich
 ## [44] Magnus Kitchen
-* Chili beef stew with stomped potatoes and pickles
+* Pea soup with classic accessories, jam pancakes and cream
 ## [45] Medicon Village
-* Deep-fried MSC-certified cod fillet with remoulad, dill, lemon and
-boiled potatoes
-* Pasta with pea shot pesto, roasted cabbage, peas and sunflower seeds
-* Pork beef with olives, sea tower-pickled carrots and roasted
-Potatoes
+* Pork pancake with raw touched lingonberries
+* Italian Arancini (balls of risotto) with mushrooms, black cabbage and
+fried Fava beans
+* Oxminsburgare with feta cheese, yellow mustard, pickles and coffee-pickled
+Onion
 noun
-potatoes
-potatis
-fries
-frites, potatis, småfiskar, pommes
-* Today's salad with main accessories (Meat, seafood)
+onion
+lök, löken
+scallions
+salladslöken, lök
 ## [46] Scotland Yard
-* Vegan moussaka with eggplant, potatoes, soy and tomatoe
-* Swedish peasoup with pork, Pancakes with sideorders
-* Burger with apple and rosemarygravy, lingonberries and potatoepuré
-* Fennelsoup with chervil
+* Fried rice with beansprouts, pakchoy, pulled vego and nuts
+* Scotland Yards peasoup with swedish pork and pancakes with
+sideorders
+* Bacon meatloaf with redpeppersauce, pickled cucumber, lingonberries
+and potatoepureé
+* Creamy vegetablesoup with herbs
 
 # Friday
 
@@ -268,54 +272,59 @@ fredag
 Fri
 fre, fr, fredag, vardagar
 ## [47] Anna's Kitchen
-* Osso buco on carré with lemon roasted carrots, celeriac, tomato,
-gremolata and risotto milanese
+* Night-baked Scanian rapepig page served with coleslaw flavored with
+dijon mustard, baked apples, deep-fried onion rings, BBQ sauce and roasted
+potato wedges
 ## [48] Bricks Eatery
-* Today's catch with jerusalem artichoke, browned butter and chives Today's
-catch with Jerusalem artichoke butter and chives
-* Higher vschili with nachos, pickles and sour cream Beef chili with
-nachos, pickles and sour cream
-* Ricotta & Spinach tortellini with precious cheese, broccoli and seeds Ricotta
-& Spinach Tortellini with blue cheese, broccoli and seeds
-* Pizza: Tomato Sauce, Mozzarella, Pecorino, pancetta Tomato sauce,
-mozzarella, pecorino, pancetta
+* Schnitzel with sky sauce, wax beans and parsley butter Schnitzel with
+gravy sauce, beans and parsley butter
+* BBQ chicken with coleslaw, pickles and roasted potato BBQ chicken
+with coleslaw, pickles and roasted potatoes
+* Curry with sweet potatoes, chickpeas and coriander (V) Curry with sweet
+potatoes, chickpeas and coriander
+* Pizza: Fresh cheese, mozzarella, fennel, salmon Crème cheese, mozzarella,
+fennel, salmon
 ## [49] Cafe Bridge
-* Buckwheat-breaded fillet with boiled potatoes and cold chive-shrimp sauce
+* Spice fried Turkey breast with bulgur, tomato curry and yogurt
 ## [50] Finn Inn
-* Lightly marinated roast beef with red wine sky, potato cake & cornichons
-* Skin salad with olives, capers, cucumber, tomato & mustard svinaigrette
-Mr President, i would like to thank the rapporteur, Mr President, i would like to thank the rapporteur,
-* Peas buns with mushroom and onion sauce with potato cake
+* Wallenbergare(calf) with cream sauce, mashed potatoes, peas & lingonberries
+* Salami &amp; brie salad with pineapple, olives, cucumber, tomato & vinaigrette
+Mr President, i would like to thank the rapporteur,
+noun
+gf
+GF
+gfs
+gfs, GF
+* Loaf with cream sauce, mashed potatoes, peas & lingonberries (GF)
 ## [51] Highlight
-* Fried breaded plaice with remulad sauce and boiled potatoes
-* Pasta Carbonara, served with parmesan cheese and raw egg yolk
+* Steak with onion sky, mashed potatoes and lingonberry jam.
+* Chicken stew with sun-dried tomato is served with rice.
 ## [52] Ideon Delta
 * —
 ## [53] Ideon Edison
-* Vegburger with portabello & brioche bread
-* Higher stew with herbal yoghurt & potato wedge
-* Night-baked carre with ginger & orange braised carrot
+* Matveteotto with kale & priest's cheese
+* Black pudding with bacon, apple & lingonberries
+* Okinomiaki, Japanese cabbage pancake with turkey mince & ginger
 ## [54] Spice Shelf
-* Marinated entrecote with bearnaise sauce and fried vegetables
-* Västerbottengratinerad fish file with white wine sauce and boiled potatoes
-* Broccoli and cauliflower gratin with creme fraich
+* Pork noisette with raw fried leek potatoes and calvados sauce
+* Fish gratin with asparagus and lobster sauce
+* Mushroom and rice-filled peppers
 ## [55] Magnus Kitchen
-* Angus cheeseburger with roasted potatoes and two dressings
+* Coming soon
 ## [56] Medicon Village
-* Wallenbergare with sliced butter, peas, raw stirred lingonberries and
-potato puree
-* Tom Yam gong (Thai stew) with chilli, mushrooms, white beans,
-coriander and jasmine rice
-* Slowly baked Swedish pork loin with creamy polenta, olives,
-parmesan and arugula
-* Today's salad with main accessories (Meat, seafood)
+* Wine-baked MSC certified spätta fillet with lobster sauce, shiitake mushrooms,
+lemon, dill and potato puree
+* Rigatoni (ribbed pipe paste) with roasted eggplant, Ricotta cheese,
+basil, tomato and Parmesan cheese
+* Herb baked pork carliate with lemon cream sauce, parsley-vinaigrette and
+root fruit gratin
 ## [57] Scotland Yard
-* Potatoetortilla with bellpepper and marinated olives and
-rocketsalad
-* Porknoisette with green beans, bearnaisesauce and Idahopotatoes
-* Spanish paella with chicken, shrimps and chorizo and aioli
-* Tomatoesoup with basil and garlic
-Generated at 2019-12-02 10:00:01 by cotopaxi
+* Bean and vegetablefilled wrap with salsa and fried rice
+* Schnitzel with deepfried capern, redwinesauce and fried potatoes
+and beans
+* Fishcasserole Bouillabaise with lemonaioli and dillpotatoes
+* Paprika soup with cummin
+Generated at 2019-12-09 10:00:01 by cotopaxi
 ## Reference 
 This page was generated by using the following site : http://mudhead.se/lt.html
-... 1912081018
+... 1912091019
